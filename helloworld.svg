@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -6511,11 +6512,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="670.23131"
-     inkscape:cy="1208.4691"
+     inkscape:zoom="2.8"
+     inkscape:cx="338.30935"
+     inkscape:cy="1361.1227"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1057"
@@ -6558,15 +6559,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff"
-       x="121.91715"
+       x="124.05999"
        y="-315.87708"
        id="text3085"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;white|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;data&quot;:&quot;75&quot;,&quot;param&quot;:&quot;red|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
-         x="121.91715"
+         x="124.05999"
          y="-315.87708"
          id="tspan5710"
-         style="font-size:20px;line-height:1.25">%s</tspan></text>
+         style="font-size:20px;line-height:1.25">%03.1f</tspan></text>
     <g
        id="g11338"
        transform="matrix(0.99481641,0,0,0.98858728,-851.61776,-1164.4832)"
@@ -7439,39 +7440,8 @@
     </g>
     <path
        style="opacity:0.41150441;fill:#216778;stroke:none"
-       d="m 123.08019,-394.63783 c -39.488323,0 -71.499993,32.01166 -71.499993,71.5 0,39.48834 32.01167,71.5 71.499993,71.5 39.48836,0 71.5,-32.01166 71.5,-71.5 0,-39.48834 -32.01164,-71.5 -71.5,-71.5 z m 0.15625,8.8125 c 23.32125,0.0779 45.68008,13.23552 56.40625,35.6875 14.91496,31.21993 1.70805,68.62266 -29.5,83.5625 h -0.0312 c -31.23755,14.92337 -68.670373,1.70629 -83.593743,-29.53125 -14.92337,-31.23754 -1.7063,-68.67038 29.531251,-83.59375 8.785552,-4.1972 18.061782,-6.1555 27.187492,-6.125 z"
+       d="m 124.86589,-394.28069 c -39.488305,0 -71.499978,32.01166 -71.499978,71.5 0,39.48834 32.011673,71.5 71.499978,71.5 39.48836,0 71.5,-32.01166 71.5,-71.5 0,-39.48834 -32.01164,-71.5 -71.5,-71.5 z m 0.15625,8.8125 c 23.32125,0.0779 45.68008,13.23552 56.40625,35.6875 14.91496,31.21993 1.70805,68.62266 -29.5,83.5625 h -0.0312 c -31.23755,14.92337 -68.670355,1.70629 -83.593725,-29.53125 -14.923373,-31.23754 -1.7063,-68.67038 29.53125,-83.59375 8.785535,-4.1972 18.061765,-6.1555 27.187475,-6.125 z"
        id="path15244"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffff00;stroke:#000000;stroke-width:1.75662017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -824.28447,-1516.4791 -22.5,30 45,0 -22.5,-30"
-       id="almanashape1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;-cor-45|black&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="-824.28448"
-       y="-1485.9567"
-       id="almanashapetext"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;black|none&quot;,&quot;tag&quot;:&quot;%n&quot;}]}"><tspan
-         sodipodi:role="line"
-         id="tspan7330-0-7"
-         x="-824.28448"
-         y="-1485.9567"
-         style="font-size:20px;line-height:1.25;font-family:sans-serif">0</tspan></text>
-    <text
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;-cor-22|&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;c&quot;,&quot;param&quot;:&quot;-cor-41|&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;n&quot;,&quot;param&quot;:&quot;-cor-42|&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;f&quot;,&quot;param&quot;:&quot;-cor-12|&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       id="tap_model"
-       y="-1331.8051"
-       x="-694.04431"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#6a43e5;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan7715"
-         x="-694.04431"
-         y="-1331.8051"
-         style="font-size:22px;line-height:1.25">%2.0f</tspan></text>
   </g>
 </svg>
