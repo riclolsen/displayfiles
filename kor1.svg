@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1877.1766"
-     inkscape:cy="1379.1078"
+     inkscape:zoom="2"
+     inkscape:cx="865.00058"
+     inkscape:cy="1226.3368"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="gTR1"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1057"
@@ -708,9 +708,9 @@
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;!EVAL Math.sqrt(Math.pow($V('KOR1TR1MW'),2) + Math.pow($V('KOR1TR1MVAR'),2))&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;-cor-59&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
     <a
        xlink:href="kin1.svg"
-       transform="translate(-86,-2.6171874e-6)"
+       id="a12200"
        inkscape:label=""
-       id="a12200">
+       transform="translate(-86,-2.6171874e-6)">
       <text
          onload="evt.currentTarget.style.cursor='pointer';"
          xml:space="preserve"
@@ -8048,9 +8048,9 @@
          id="rect7654-9"
          style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:3.51675415;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         inkscape:label="{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;UP&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;top.WebSAGE.directCommandExec(64165, \&quot;ON\&quot;);&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;KOR1TR1--YTAP&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;UP&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
          transform="translate(-35,-196.76658)"
-         id="g9174-2">
+         id="TAPUP">
         <rect
            cursor="pointer"
            style="opacity:1;fill:url(#linearGradient9172-6);fill-opacity:1;stroke:#1ac3b5;stroke-width:1.97288179;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8072,9 +8072,9 @@
       </g>
       <g
          cursor="pointer"
-         inkscape:label="{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;DOWN&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;top.WebSAGE.directCommandExec(64165, \&quot;OFF\&quot;);&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;KOR1TR1--YTAP&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;DOWN&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
          transform="matrix(1,0,0,-1,-35,-262.34421)"
-         id="g9174-7-4">
+         id="TAPDOWN">
         <rect
            style="opacity:1;fill:url(#linearGradient9172-3-6);fill-opacity:1;stroke:#1ac3b5;stroke-width:1.97288179;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7656-8-6"
@@ -8095,9 +8095,9 @@
       </g>
       <g
          cursor="pointer"
-         inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;top.WebSAGE.directCommandExec(64162, \&quot;OFF\&quot;);&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;KOR1TR1-2XCBR5201&quot;}"
          transform="translate(-71,-114.98824)"
-         id="g9274-0">
+         id="XCBROPEN">
         <rect
            style="opacity:1;fill:url(#linearGradient9172-3-7-4);fill-opacity:1;stroke:#1ac3b5;stroke-width:1.97288203;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7656-8-2-58"
@@ -8122,9 +8122,9 @@
       </g>
       <g
          cursor="pointer"
-         inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;top.WebSAGE.directCommandExec(64162, \&quot;ON\&quot;);&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;KOR1TR1-2XCBR5201&quot;}"
          transform="translate(-86.897285,-114.29628)"
-         id="g9279-3">
+         id="XCBRCLOSE">
         <rect
            style="opacity:1;fill:url(#linearGradient9172-3-7-6-4);fill-opacity:1;stroke:#1ac3b5;stroke-width:1.97288203;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7656-8-2-5-0"
