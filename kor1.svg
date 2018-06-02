@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="865.00058"
-     inkscape:cy="1226.3368"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1574.2162"
+     inkscape:cy="808.51145"
      inkscape:document-units="px"
-     inkscape:current-layer="gTR1"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1057"
@@ -708,9 +708,9 @@
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;!EVAL Math.sqrt(Math.pow($V('KOR1TR1MW'),2) + Math.pow($V('KOR1TR1MVAR'),2))&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;-cor-59&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
     <a
        xlink:href="kin1.svg"
-       id="a12200"
+       transform="translate(-86,-2.6171874e-6)"
        inkscape:label=""
-       transform="translate(-86,-2.6171874e-6)">
+       id="a12200">
       <text
          onload="evt.currentTarget.style.cursor='pointer';"
          xml:space="preserve"
@@ -7733,7 +7733,7 @@
        height="187.25545"
        x="1380"
        y="214.36218"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{ \&quot;axisText\&quot;:false }&quot;,&quot;src&quot;:&quot;KOR1AL11MW,KOR1AL12MW,KOR1AL13MW,KOR1AL14MW,KOR1AL15MW,KOR1AL16MW,KOR1AL17MW&quot;,&quot;tag&quot;:&quot;#radar&quot;,&quot;type&quot;:&quot;Data&quot;}" />
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{ \&quot;axisText\&quot;:false, \&quot;maxValue\&quot;: 10 }&quot;,&quot;src&quot;:&quot;KOR1AL11MW,KOR1AL12MW,KOR1AL13MW,KOR1AL14MW,KOR1AL15MW,KOR1AL16MW,KOR1AL17MW&quot;,&quot;tag&quot;:&quot;#radar&quot;,&quot;type&quot;:&quot;Data&quot;}" />
     <text
        inkscape:label=""
        id="text1147-2-2-7-2-4"
@@ -7965,21 +7965,21 @@
          d="m 841.78044,-740.59495 0,15.6"
          id="path7384-0-3-8-5"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:250,&quot;min&quot;:210,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}"
          sodipodi:nodetypes="cc" />
       <path
          style="opacity:0.39500002;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 784.53045,-740.59496 0,15.6"
          id="path7384-0-3-8-5-3"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:250,&quot;min&quot;:210,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}"
          sodipodi:nodetypes="cc" />
       <path
          style="opacity:0.39500002;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 899.46795,-740.59496 0,15.6"
          id="path7384-0-3-8-5-9"
          inkscape:connector-curvature="0"
-         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:250,&quot;min&quot;:210,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}"
          sodipodi:nodetypes="cc" />
       <use
          x="0"
