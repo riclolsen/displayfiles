@@ -28,9 +28,9 @@
    inkscape:window-height="1057"
    id="namedview5712"
    showgrid="false"
-   inkscape:zoom="1.804"
-   inkscape:cx="893.8012"
-   inkscape:cy="1088.833"
+   inkscape:zoom="3.608"
+   inkscape:cx="823.81072"
+   inkscape:cy="877.86372"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -5152,6 +5152,7 @@
 
 
 
+
 <g
    id="g5925"
    inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var s = window.Snap(window.SVGDoc.rootElement);\nvar second = s.select(\&quot;#second\&quot;);\nvar minute = s.select(\&quot;#minute\&quot;);\nvar hour = s.select(\&quot;#hour\&quot;);\n//Run animation function\nsetInterval( function () {\n//Get the current time                \n  var timeNow = new Date();\n  var hours   = timeNow.getHours();\n  var minutes = timeNow.getMinutes();\n  var seconds = timeNow.getSeconds();\n//Move second needle halfway                \n  second.transform('r' + (seconds*6-3) + ',200,200');\n//Animate the second needle the rest of the way\n  second.animate({transform: 'r' + (seconds*6) + ',200,200'}, 500, mina.elastic);\n//Move minute needle                \n  minute.transform('r' + (minutes*6) + ',200,200');\n//Only animate the minute needle when the minute changes    \n  if(seconds == 0){minute.transform('r' + (minutes*6-3) + ',200,200');\n  minute.animate({transform: 'r' + (minutes*6) + ',200,200'}, 500, mina.elastic);}\n//Allow the hour needle to move accordingly when the minutes change             \n  hour.transform('r' + ((hours*30)+(minutes/2)) + ',200,200');\n//Repeat this entire function every 1 second\n  }, 1000 );\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
@@ -5280,7 +5281,7 @@
    height="175.55441"
    x="793.25623"
    y="546.41534"
-   inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;5816&quot;}" /><rect
+   inkscape:label="" /><rect
    style="fill:#550000;fill-opacity:1;stroke:none"
    id="rect3069-5"
    width="24.726898"
@@ -5582,6 +5583,7 @@
      style="font-size:8.24965477px;line-height:1.25">%2.0f A</tspan></text>
 
 
+
   <path
    d="M 12,240.2 221.73374,6 165.79516,192.5 245.54725,191.8 35.813518,426 91.752096,239.5 Z m 0,0"
    class="bolt loading"
@@ -5618,4 +5620,5 @@
      y="-103.51678"
      id="tspan2692"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:9.33333337px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:1px">https://vega.github.io</tspan></text>
+
 </svg>
