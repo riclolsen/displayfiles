@@ -6547,9 +6547,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="407.16627"
-     inkscape:cy="1466.0952"
+     inkscape:zoom="1.4921875"
+     inkscape:cx="577.57399"
+     inkscape:cy="1272.0071"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6730,7 +6730,7 @@
          style="fill:#fbc809;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter3473)"
          id="needle"
          sodipodi:nodetypes="ccccc"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;120&quot;,&quot;param&quot;:&quot;@red&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:180,&quot;min&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;120&quot;,&quot;param&quot;:&quot;@red&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:180,&quot;min&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
          inkscape:transform-center-x="35.35534"
          inkscape:transform-center-y="0.50507627" />
       <ellipse
