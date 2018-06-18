@@ -6760,7 +6760,7 @@
          y="179.06665"
          id="text_kmh"
          transform="scale(0.97768101,1.0228285)"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL parseFloat(thisobj.previousSibling.previousSibling.textContent)/0.62137&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL console.log(thisobj.id);parseFloat(thisobj.previousSibling.previousSibling.textContent)/0.62137&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
            sodipodi:role="line"
            id="tspan19405-0"
            x="359.57623"
