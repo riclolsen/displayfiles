@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="1574.2162"
-     inkscape:cy="808.51145"
+     inkscape:cy="1430.7654"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -708,9 +708,9 @@
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;!EVAL Math.sqrt(Math.pow($V('KOR1TR1MW'),2) + Math.pow($V('KOR1TR1MVAR'),2))&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;-cor-59&quot;,&quot;tag&quot;:&quot;99999&quot;}]},{&quot;attr&quot;:&quot;popup&quot;,&quot;height&quot;:400,&quot;src&quot;:&quot;block&quot;,&quot;width&quot;:500,&quot;x&quot;:100,&quot;y&quot;:100}" />
     <a
        xlink:href="kin1.svg"
-       transform="translate(-86,-2.6171874e-6)"
+       id="a12200"
        inkscape:label=""
-       id="a12200">
+       transform="translate(-86,-2.6171874e-6)">
       <text
          onload="evt.currentTarget.style.cursor='pointer';"
          xml:space="preserve"
@@ -7732,7 +7732,7 @@
        width="207.78073"
        height="187.25545"
        x="1380"
-       y="214.36218"
+       y="212.36218"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{ \&quot;axisText\&quot;:false, \&quot;maxValue\&quot;: 10 }&quot;,&quot;src&quot;:&quot;KOR1AL11MW,KOR1AL12MW,KOR1AL13MW,KOR1AL14MW,KOR1AL15MW,KOR1AL16MW,KOR1AL17MW&quot;,&quot;tag&quot;:&quot;#radar&quot;,&quot;type&quot;:&quot;Data&quot;}" />
     <text
        inkscape:label=""
@@ -7867,24 +7867,6 @@
          x="726.78326"
          y="-740.5943"
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-55&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}" />
-      <rect
-         transform="matrix(0,-1,1,0,0,0)"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:250,&quot;min&quot;:210,&quot;tag&quot;:&quot;!ILIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;#aaaaaa&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}"
-         y="726.78326"
-         x="724.9743"
-         height="230"
-         width="15.62"
-         id="rect_analogind_liminf-1-9-0-0-0"
-         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:210,&quot;min&quot;:250,&quot;tag&quot;:&quot;!SLIM%n&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;#aaaaaa&quot;,&quot;tag&quot;:&quot;%n&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;}"
-         y="-956.78326"
-         x="-740.5946"
-         height="230.00002"
-         width="15.620222"
-         id="rect_analogind_limsup-1-7-6-6-5"
-         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <rect
          y="726.78326"
          x="-735.95569"
