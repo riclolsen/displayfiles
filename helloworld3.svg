@@ -6511,9 +6511,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="160.38354"
-     inkscape:cy="1429.096"
+     inkscape:zoom="5.6"
+     inkscape:cx="155.27345"
+     inkscape:cy="1381.9959"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8332,7 +8332,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="gbullet7665-0"
-       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG2&quot;]}"
+       inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG1&quot;]}"
        transform="matrix(0.42199712,0,0,0.42199712,-269.35532,-35.086486)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.43529412;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8487,7 +8487,7 @@
          id="rect8557"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
-         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:250,&quot;min&quot;:210,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}" />
+         inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:1,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;}" />
     </g>
     <rect
        style="opacity:0.86799999;fill:#008000;stroke-width:0.32965046"
@@ -8496,6 +8496,6 @@
        height="61.728848"
        x="51.103474"
        y="-321.53064"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{ \&quot;axisText\&quot;:false }&quot;,&quot;src&quot;:&quot;TAG1,TAG2,TAG3,TAG4&quot;,&quot;tag&quot;:&quot;#radar&quot;,&quot;type&quot;:&quot;Data&quot;}" />
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{ \&quot;axisText\&quot;:false, \&quot;radius\&quot;: 2 }&quot;,&quot;src&quot;:&quot;TAG1,TAG2,TAG3,TAG4&quot;,&quot;tag&quot;:&quot;#radar&quot;,&quot;type&quot;:&quot;Data&quot;}" />
   </g>
 </svg>
