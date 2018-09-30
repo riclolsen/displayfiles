@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
-   sodipodi:docname="helloworld2.svg">
+   sodipodi:docname="helloworld3.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -6511,9 +6511,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="309.43454"
-     inkscape:cy="1444.9822"
+     inkscape:zoom="3.959798"
+     inkscape:cx="160.38354"
+     inkscape:cy="1429.096"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8341,7 +8341,7 @@
          height="50"
          x="712.12769"
          y="-757.36993"
-         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;a&quot;,&quot;param&quot;:&quot;none|-cor-45&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;375&quot;,&quot;param&quot;:&quot;none|yellow&quot;,&quot;tag&quot;:&quot;%n&quot;}]}" />
       <path
          style="fill:#b3b3b3;fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 841.77694,-726.76299 v 4.8461"
@@ -8387,16 +8387,7 @@
          height="230"
          width="15.62"
          id="rect_analogind_liminf-1-9-0-0-0"
-         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <rect
-         transform="rotate(90)"
-         inkscape:label=""
-         y="-956.78326"
-         x="-740.5946"
-         height="230.00002"
-         width="15.620222"
-         id="rect_analogind_limsup-1-7-6-6-5"
-         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <rect
          y="726.78326"
          x="-735.95569"
@@ -8412,19 +8403,7 @@
          id="path_almmedpri1-111-3-1-9-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
-         inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;220&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;240&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;}]}" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         x="897.74463"
-         y="-746.20428"
-         id="text_almmedpri1-111-4-0-1-0"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;almanashapetext&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan_almmedpri1-111-1-9-7-8"
-           x="897.74463"
-           y="-746.20428"
-           style="font-size:13.33332729px;line-height:1.25;font-family:sans-serif">1</tspan></text>
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;none|none&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;375&quot;,&quot;param&quot;:&quot;none|yellow&quot;,&quot;tag&quot;:&quot;%n&quot;},{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;}]}" />
       <text
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-cor-15|&quot;,&quot;tag&quot;:&quot;99999&quot;}]}"
          id="text_analogind_modunid-1-3-5-9-4"
