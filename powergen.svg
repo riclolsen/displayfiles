@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="brasil.svg"
+   sodipodi:docname="powergen.svg"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
    inkscape:version="0.92.3 (cc100de, 2018-03-31, custom)"
    version="1.1"
@@ -4955,9 +4955,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="421.73107"
-     inkscape:cy="1068.8615"
+     inkscape:zoom="2"
+     inkscape:cx="350.2484"
+     inkscape:cy="1220.811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5483,18 +5483,18 @@
     <text
        poiter-events="none"
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'open sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
-       x="67.143188"
-       y="-124.58997"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
+       x="61.14547"
+       y="-120.58845"
        id="text7048-44"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="scale(1.0003805,0.99961965)"><tspan
          sodipodi:role="line"
          id="tspan7050-16"
-         x="67.143188"
-         y="-124.58997"
-         style="font-size:20.88543892px;line-height:1.25">Power Generation</tspan></text>
+         x="61.14547"
+         y="-120.58845"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Power Generation</tspan></text>
     <g
        class="mark-text"
        id="g5808-0"
@@ -5582,52 +5582,52 @@
     <text
        poiter-events="none"
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'open sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
-       x="222.92567"
-       y="-389.09354"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
+       x="198.93483"
+       y="-385.09201"
        id="text7048-44-1-1"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="scale(1.0003805,0.99961965)"><tspan
          sodipodi:role="line"
          id="tspan7050-16-6-4"
-         x="222.92567"
-         y="-389.09354"
-         style="font-size:20.88543892px;line-height:1.25">Nuclear Power</tspan></text>
+         x="198.93483"
+         y="-385.09201"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Nuclear Power</tspan></text>
     <text
        y="-217.71156"
-       x="264.7222"
+       x="260.72989"
        transform="scale(1.0019215,0.99808219)"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#00eeee"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee"
        id="text5767-3-2-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:125%;font-family:'Open Sans Light';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
          id="tspan34299-8">U1</tspan>
     </text>
     <text
        y="-217.71156"
-       x="302.93887"
+       x="298.94656"
        transform="scale(1.0019215,0.99808219)"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#00eeee"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee"
        id="text5767-3-2-5-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:125%;font-family:'Open Sans Light';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
          id="tspan34299-3-7">U2</tspan>
     </text>
     <text
        y="-217.71156"
-       x="342.04202"
+       x="338.04971"
        transform="scale(1.0019215,0.99808219)"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#00eeee"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee"
        id="text5767-3-2-5-6-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3754797px;line-height:125%;font-family:'Open Sans Light';-inkscape-font-specification:'Open Sans Light, Light';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
          id="tspan34299-3-1-9">U3</tspan>
     </text>
     <rect
@@ -6026,7 +6026,7 @@
          id="rect1517-4"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <path
-         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:60,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V[%n] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect1521-8"
@@ -6051,7 +6051,7 @@
          style="fill:#ff9955" />
       <text
          xml:space="preserve"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
          x="1339.9725"
          y="-274.22565"
          id="text14666"
@@ -6060,7 +6060,7 @@
            id="tspan14668"
            x="1339.9725"
            y="-274.22565"
-           style="font-size:17.51335526px;line-height:1.25">%.1f</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
     </g>
     <g
        id="g5533-6"
@@ -6084,7 +6084,7 @@
          id="rect1517-4-0"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <path
-         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:60,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V[%n] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect1521-8-0"
@@ -6109,7 +6109,7 @@
          style="fill:#ff9955" />
       <text
          xml:space="preserve"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
          x="1339.9725"
          y="-274.22565"
          id="text14666-2"
@@ -6118,7 +6118,7 @@
            id="tspan14668-3"
            x="1339.9725"
            y="-274.22565"
-           style="font-size:17.51335526px;line-height:1.25">%.1f</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
     </g>
     <g
        id="g5533-0"
@@ -6142,7 +6142,7 @@
          id="rect1517-4-5"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <path
-         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:60,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V[%n] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect1521-8-09"
@@ -6167,7 +6167,7 @@
          style="fill:#ff9955" />
       <text
          xml:space="preserve"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
          x="1339.9725"
          y="-274.22565"
          id="text14666-28"
@@ -6176,7 +6176,7 @@
            id="tspan14668-2"
            x="1339.9725"
            y="-274.22565"
-           style="font-size:17.51335526px;line-height:1.25">%.1f</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
     </g>
     <circle
        style="opacity:0.17256637;fill:#000000;fill-opacity:1;stroke:#091111;stroke-width:6.10979128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter15216)"
@@ -6495,7 +6495,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9955;fill-opacity:1;stroke:none"
        x="448.88052"
        y="-276.51248"
        id="text7048-1-0"
@@ -6507,7 +6507,7 @@
          id="tspan7050-1-1"
          x="448.88052"
          y="-276.51248"
-         style="font-size:22.35771179px;line-height:1.25">Power Exchange</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Power Exchange</tspan></text>
   </g>
   <desc
      id="desc6479">Created with Snap</desc>
