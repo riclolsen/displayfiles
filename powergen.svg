@@ -4957,7 +4957,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="350.2484"
-     inkscape:cy="1220.811"
+     inkscape:cy="1260.811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6040,15 +6040,6 @@
          width="10"
          id="rect1517-1-8"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <use
-         height="1500"
-         width="2400"
-         transform="translate(0,-129.65878)"
-         id="use1544-2"
-         xlink:href="#rect1521-8"
-         y="0"
-         x="0"
-         style="fill:#ff9955" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
@@ -6061,6 +6052,14 @@
            x="1339.9725"
            y="-274.22565"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8"
+         id="use2392"
+         transform="translate(0,-130.04333)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        id="g5533-6"
@@ -6098,15 +6097,6 @@
          width="10"
          id="rect1517-1-8-8"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <use
-         height="1500"
-         width="2400"
-         transform="translate(0,-129.65878)"
-         id="use1544-2-8"
-         xlink:href="#rect1521-8-0"
-         y="0"
-         x="0"
-         style="fill:#ff9955" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
@@ -6119,6 +6109,14 @@
            x="1339.9725"
            y="-274.22565"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8-0"
+         id="use2394"
+         transform="translate(0,-130.04333)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        id="g5533-0"
@@ -6156,15 +6154,6 @@
          width="10"
          id="rect1517-1-8-7"
          style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <use
-         height="1500"
-         width="2400"
-         transform="translate(0,-129.65878)"
-         id="use1544-2-2"
-         xlink:href="#rect1521-8-09"
-         y="0"
-         x="0"
-         style="fill:#ff9955" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
@@ -6177,6 +6166,14 @@
            x="1339.9725"
            y="-274.22565"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">%.1f</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8-09"
+         id="use2396"
+         transform="translate(0,-130.04333)"
+         width="100%"
+         height="100%" />
     </g>
     <circle
        style="opacity:0.17256637;fill:#000000;fill-opacity:1;stroke:#091111;stroke-width:6.10979128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter15216)"
