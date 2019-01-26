@@ -8003,7 +8003,7 @@
            id="tspan2496">KOR1</tspan></text>
     </g>
     <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linename_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;window.parent.ShowHideTranslate(\&quot;gTR1\&quot;,0,0);&quot;}]}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;linename_model&quot;,&quot;tag&quot;:&quot;#copy_xsac_from&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;window.ShowHideTranslate(\&quot;gTR1\&quot;,0,0);&quot;}]}"
        id="pal9-4-3"
        y="-103.63781"
        x="676"
@@ -8580,7 +8580,7 @@
            style="font-size:14.08393955px;line-height:1.25">XCBR</tspan></text>
       <g
          id="g9938-3"
-         inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;window.parent.ShowHideTranslate(\&quot;gTR1\&quot;,0,0);&quot;}]}"
+         inkscape:label="{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;window.ShowHideTranslate(\&quot;gTR1\&quot;,0,0);&quot;}]}"
          cursor="pointer"
          transform="matrix(0.93895795,0,0,0.93895795,120.5063,-28.341996)">
         <ellipse
