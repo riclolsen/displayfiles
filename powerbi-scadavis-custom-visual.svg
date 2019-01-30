@@ -478,17 +478,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="490.29951"
-     inkscape:cy="48.085482"
+     inkscape:zoom="0.35"
+     inkscape:cx="835.53127"
+     inkscape:cy="284.12404"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1582"
      inkscape:window-height="817"
-     inkscape:window-x="519"
-     inkscape:window-y="145"
+     inkscape:window-x="688"
+     inkscape:window-y="192"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -871,14 +871,6 @@
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.display=\&quot;none\&quot;;&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
          transform="matrix(0.83958633,0,0,0.83958633,-490.4181,734.98422)"
          id="g1101-4">
-        <rect
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;../charts/pizza_regioes.json&quot;,&quot;src&quot;:&quot;11641,11642,11643,11644,11645&quot;,&quot;tag&quot;:&quot;#vega&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           y="79.779411"
-           x="895.0976"
-           height="201.79575"
-           width="215.95427"
-           id="rect2-2"
-           style="display:none;opacity:0.86799999;fill:#c87137;stroke:#917c6f;stroke-width:0.49804938" />
         <g
            transform="matrix(1.0797714,0,0,1.0089787,895.0976,79.779411)"
            id="vg_rect2-3">
@@ -1768,19 +1760,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.70671844px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#164450;fill-opacity:1;stroke:none;stroke-width:0.22555988"
-       x="256.54816"
-       y="115.9531"
-       id="text5408-9"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var loc=\&quot;rio de janeiro\&quot;;var obj = thisobj;\nsetInterval( function() {\n$.getJSON('../htdocs/proxy.php?TYPE=application/json&amp;URL=http%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fweather%3Fq%3D'+loc+'%2Cbr%26amp%3Bunits%3Dmetric%26amp%3Blang%3Dpt%26amp%3BAPPID%3Dba5a5a44279f9c8d124246f1147c2bed', function(data){\n  if ( typeof(data.main)!=\&quot;undefined\&quot; )\n     obj.textContent=parseFloat(data.main.temp).toFixed(0)+\&quot;°\&quot;;\n  if ( typeof(data.weather)!=\&quot;undefined\&quot; )\n     {\n     var objuse = window.SVGDoc.getElementById( \&quot;wt_\&quot; + loc.replace(/ /g , \&quot;_\&quot;) );\n     if ( objuse )\n       objuse.setAttributeNS( \&quot;http://www.w3.org/1999/xlink\&quot; , \&quot;href\&quot;, \&quot;#\&quot; + data.weather[0].icon );\n     }\n  });\n}, 19000 );    &quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       transform="scale(1.0003805,0.99961965)"><tspan
-         sodipodi:role="line"
-         id="tspan5410-4"
-         x="256.54816"
-         y="115.9531"
-         style="font-size:4.24262333px;line-height:1.25;stroke-width:0.22555988">.</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.11136818px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light, Light Oblique';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.34261402"
        x="148.0551"
        y="282.27057"
@@ -1806,7 +1785,7 @@
        x="200.56422"
        y="256.82666"
        id="text3085"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL \&quot;\&quot; + (100*V(\&quot;1\&quot;)/100).toFixed(0) + \&quot;%\&quot;&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL \&quot;\&quot; + (100*$V(\&quot;TAG1\&quot;)/100).toFixed(0) + \&quot;%\&quot;&quot;,&quot;type&quot;:&quot;Good&quot;}"
        transform="scale(1.0003805,0.99961965)"><tspan
          sodipodi:role="line"
          x="200.56422"
