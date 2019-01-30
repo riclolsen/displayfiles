@@ -1806,7 +1806,7 @@
        x="200.56422"
        y="256.82666"
        id="text3085"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL \&quot;\&quot; + (100*V[5835]/200).toFixed(0) + \&quot;%\&quot;&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!EVAL \&quot;\&quot; + (100*V(\&quot;1\&quot;)/100).toFixed(0) + \&quot;%\&quot;&quot;,&quot;type&quot;:&quot;Good&quot;}"
        transform="scale(1.0003805,0.99961965)"><tspan
          sodipodi:role="line"
          x="200.56422"
