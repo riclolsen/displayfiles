@@ -1541,6 +1541,7 @@
          id="g2227-6-0-7">
         <g
            id="eolic1-4"
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;setTimeout(function(){var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + bb.height/2;\nwindow.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.2, 'calcMode':'paced' });},1000);\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
            >
           <g
              id="g2213-7-8-1">
@@ -1624,6 +1625,7 @@
          id="g2227-6-0-7-7">
         <g
            id="eolic1-4-7"
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;setTimeout(function(){var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + bb.height/2;\nwindow.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 3.8, 'calcMode':'paced' });},1000);\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
            >
           <g
              id="g2213-7-8-1-2">
@@ -1693,6 +1695,7 @@
          id="g2227-6-0">
         <g
            id="eolic1"
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;setTimeout(function(){var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + bb.height/2;\nwindow.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4, 'calcMode':'paced' });},1000);\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}"
            >
           <g
              id="g2213-7-8">
