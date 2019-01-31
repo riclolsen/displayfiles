@@ -18,6 +18,28 @@
    sodipodi:docname="powerbi-scadavis-custom-visual.svg">
   <defs
      id="defs2">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+         ._objrotation{
+            -ms-animation: ckw 2s linear infinite;
+            -ms-transform-origin: 130% 333%;
+            -webkit-animation: ckw 2s linear infinite;
+            -webkit-transform-origin: 130% 333%;
+            -moz-animation: ckw 2s linear infinite;
+            -moz-transform-origin: 130% 333%;
+            animation: ckw 2s linear infinite;
+            transform-origin: 130% 333%;
+         }
+         @keyframes ckw {
+            0% {
+               transform: rotate(0deg);
+            }
+            100% {
+               transform: rotate(360deg);
+            }
+         }
+		]]></style>
     <filter
        inkscape:collect="always"
        id="filter15216">
@@ -1540,7 +1562,9 @@
          transform="matrix(0.1384066,0.0251257,3.9707079e-4,0.14293808,111.48849,113.17586)"
          id="g2227-6-0-7">
         <g
-           id="eolic1-4">
+           id="eolic1-4"
+           class="objrotation"
+           style="animation-duration:3.3s">
           <g
              id="g2213-7-8-1">
             <g
@@ -1622,7 +1646,9 @@
          transform="matrix(0.1384066,0.0251257,3.9707079e-4,0.14293808,111.48849,113.17586)"
          id="g2227-6-0-7-7">
         <g
-           id="eolic1-4-7">
+           id="eolic1-4-7"
+           style="animation-duration:3.2s"
+           class="objrotation">
           <g
              id="g2213-7-8-1-2">
             <g
@@ -1690,7 +1716,9 @@
          transform="matrix(0.1384066,0.0251257,3.9707079e-4,0.14293808,111.48849,113.17586)"
          id="g2227-6-0">
         <g
-           id="eolic1">
+           id="eolic1"
+           style="animation-duration:3.1s"
+           class="objrotation">
           <g
              id="g2213-7-8">
             <g
