@@ -519,9 +519,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-176.51901"
-     inkscape:cy="435.52941"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="590.66142"
+     inkscape:cy="318.28957"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2586,388 +2586,34 @@
        id="path15244"
        inkscape:connector-curvature="0" />
     <g
-       id="g5196"
-       transform="matrix(1.2544043,0,0,1.1537109,-232.66067,513.01746)">
-      <g
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-443.82641)"
-         id="g4947">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171"><tspan
-             sodipodi:role="line"
-             id="tspan1169"
-             x="414.69043"
-             y="76.941139">TAG1:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-7"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-413.76498)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-9"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-9"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-3"><tspan
-             sodipodi:role="line"
-             id="tspan1169-5"
-             x="414.69043"
-             y="76.941139">TAG2:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-2"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-2"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-78"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-383.7036)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-3"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-93"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-4"><tspan
-             sodipodi:role="line"
-             id="tspan1169-8"
-             x="414.69043"
-             y="76.941139">TAG3:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-9"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-5"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-3"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-353.64212)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-1"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG4&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-6"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-1"><tspan
-             sodipodi:role="line"
-             id="tspan1169-85"
-             x="414.69043"
-             y="76.941139">TAG4:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-5"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG4&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-1"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-2"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-323.58075)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-91"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG5&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-4"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-9"><tspan
-             sodipodi:role="line"
-             id="tspan1169-54"
-             x="414.69043"
-             y="76.941139">TAG5:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-4"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG5&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-4"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-36"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-293.51927)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-6"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG6&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-77"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-92"><tspan
-             sodipodi:role="line"
-             id="tspan1169-81"
-             x="414.69043"
-             y="76.941139">TAG6:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-3"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG6&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-0"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-70"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-263.45785)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-70"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG7&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-2"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-7"><tspan
-             sodipodi:role="line"
-             id="tspan1169-7"
-             x="414.69043"
-             y="76.941139">TAG7:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-22"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG7&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-51"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-5"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-233.39642)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-0"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG8&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-68"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-6"><tspan
-             sodipodi:role="line"
-             id="tspan1169-4"
-             x="414.69043"
-             y="76.941139">TAG8:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-1"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG8&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-53"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-59"
-         transform="matrix(0.78353065,0,0,0.78353065,261.06302,-203.335)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="681.23645"
-           y="76.941963"
-           id="text27398-79"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG9&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-5"
-             x="681.23645"
-             y="76.941963"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="414.69043"
-           y="76.941139"
-           id="text1171-36"><tspan
-             sodipodi:role="line"
-             id="tspan1169-3"
-             x="414.69043"
-             y="76.941139">TAG9:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="674.59668"
-           y="76.941971"
-           id="text27398-7-30"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG9&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-6"
-             x="674.59668"
-             y="76.941971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
-      <g
-         id="g4947-55"
-         transform="matrix(0.78353065,0,0,0.78353065,121.76156,11.934028)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="859.02332"
-           y="-159.43373"
-           id="text27398-2"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!TAG10&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-0"
-             x="859.02332"
-             y="-159.43373"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.99853563">%s</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="592.47729"
-           y="-159.43456"
-           id="text1171-8"><tspan
-             sodipodi:role="line"
-             id="tspan1169-0"
-             x="592.47729"
-             y="-159.43456">TAG10:</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.99853563"
-           x="852.38354"
-           y="-159.43373"
-           id="text27398-7-96"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG10&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-             sodipodi:role="line"
-             id="tspan27396-7-60"
-             x="852.38354"
-             y="-159.43373"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.96133423px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#d40000;stroke-width:0.99853563">%.2f</tspan></text>
-      </g>
+       id="g1248"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( ! window.hasOwnProperty(\&quot;__initsvpbi1\&quot;) ) {\n  var svg = d3.select(thisobj);\n  var cnt = 1;\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var tag in NPTS)\n   {\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+cnt*30)\n    .attr(\&quot;font-family\&quot;, \&quot;calibri\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;30px\&quot;)\n    .text(tag + \&quot; \&quot; + $V(tag));\n    cnt++;\n    }\n  }\n window.__initsvpbi1 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       transform="translate(-50.56854,-19.608531)">
+      <text
+         id="text1240"
+         y="90.954483"
+         x="816.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="816.20325"
+           id="tspan1238"
+           sodipodi:role="line">PBI Tags:</tspan></text>
+    </g>
+    <g
+       id="g1248-9"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( ! window.hasOwnProperty(\&quot;__initsvpbi2\&quot;) ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*30)\n    .attr(\&quot;font-family\&quot;, \&quot;calibri\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;30px\&quot;)\n    .text(\&quot;Tag: \&quot; + pnts[i]);\n    }\n  }\n window.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       transform="translate(-260.17297,-17.772594)">
+      <text
+         id="text1240-4"
+         y="90.954483"
+         x="816.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="816.20325"
+           id="tspan1238-4"
+           sodipodi:role="line">File Tags:</tspan></text>
     </g>
   </g>
 </svg>
