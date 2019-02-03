@@ -2600,8 +2600,8 @@
     </g>
     <g
        id="g1248"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;*\&quot;).select(function(d, i) { return i &gt; 1 ? this : null; }).remove();\n  var cnt = 1;\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var tag in NPTS)\n   {\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+cnt*30)\n    .attr(\&quot;font-family\&quot;, \&quot;calibri\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;30px\&quot;)\n    .text(tag + \&quot; \&quot; + $V(tag));\n    cnt++;\n    }\n  &quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       transform="translate(-98.56854,-19.608531)">
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;*\&quot;).select(function(d, i) { return i &gt; 1 ? this : null; }).remove();\n  var cnt = 1;\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var tag in NPTS)\n   {\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+cnt*30)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;26px\&quot;)\n    .text(tag + \&quot; \&quot; + $V(tag));\n    cnt++;\n    }\n  \n&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       transform="translate(-132.56854,-19.608531)">
       <text
          id="text1240"
          y="90.954483"
@@ -2615,8 +2615,8 @@
     </g>
     <g
        id="g1248-9"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( ! window.hasOwnProperty(\&quot;__initsvpbi2\&quot;) ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*30)\n    .attr(\&quot;font-family\&quot;, \&quot;calibri\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;30px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n window.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
-       transform="translate(-288.17297,-17.772594)">
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( ! window.hasOwnProperty(\&quot;__initsvpbi2\&quot;) ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*30)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;26px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n window.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       transform="translate(-322.17297,-17.772594)">
       <text
          id="text1240-4"
          y="90.954483"
