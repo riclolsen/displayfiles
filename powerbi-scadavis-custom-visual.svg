@@ -582,67 +582,67 @@
       </g>
       <text
          id="text3776"
-         y="57.698299"
+         y="58.345432"
          x="30.980087"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05169773px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32628971"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.05169773px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.32628971"
-           y="57.698299"
+           y="58.345432"
            x="30.980087"
            id="tspan3774"
            sodipodi:role="line">SCADAvis.io</tspan></text>
       <text
          id="text3776-8"
-         y="53.151844"
-         x="92.500282"
-         style="font-style:normal;font-weight:normal;font-size:5.06929088px;line-height:1.25;font-family:Calibri;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.1267304;-inkscape-font-specification:'Calibri, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         y="52.504711"
+         x="93.147408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.06929111px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.1267304"
          xml:space="preserve"><tspan
-           style="fill:#666666;stroke-width:0.1267304;-inkscape-font-specification:'Calibri, Normal';font-family:Calibri;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:5.06929088px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-           y="53.151844"
-           x="92.500282"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.06929111px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.1267304"
+           y="52.504711"
+           x="93.147408"
            id="tspan3774-7"
            sodipodi:role="line">TM</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.66671753px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64165759"
-       x="141.42319"
-       y="148.52905"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.54069328px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58850783"
+       x="151.60175"
+       y="165.81587"
        id="text3808"><tspan
          sodipodi:role="line"
          id="tspan3806"
-         x="141.42319"
-         y="148.52905"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.66671753px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.64165759">Power BI Custom Visual</tspan></text>
+         x="151.60175"
+         y="165.81587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.54069328px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.58850783">Power BI Custom Visual</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77913147"
        x="21.508118"
-       y="203.79996"
+       y="225.79996"
        id="text3812"><tspan
          sodipodi:role="line"
          id="tspan3810"
          x="21.508118"
-         y="203.79996"
+         y="225.79996"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147">Create synoptic graphics with </tspan><tspan
          sodipodi:role="line"
          x="21.508118"
-         y="242.75653"
+         y="264.75653"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
          id="tspan3818">unprecedented level of control.</tspan><tspan
          sodipodi:role="line"
          x="21.508118"
-         y="281.71307"
+         y="303.71307"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
          id="tspan3814">Animate with your Power BI data.</tspan><tspan
          sodipodi:role="line"
          x="21.508118"
-         y="320.66965"
+         y="342.66965"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
          id="tspan3841">Access https://scadavis.io for details. </tspan><tspan
          sodipodi:role="line"
          x="21.508118"
-         y="359.62622"
+         y="381.62622"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
          id="tspan3816" /></text>
     <g
