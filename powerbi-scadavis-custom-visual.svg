@@ -519,9 +519,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="420.96844"
-     inkscape:cy="352.26201"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="193.8753"
+     inkscape:cy="402.08147"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1027,8 +1027,8 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         y="585.94543"
-         x="67.80085"
+         y="559.94543"
+         x="59.80085"
          height="29.668461"
          width="58.131466"
          id="rect5000"
@@ -1038,15 +1038,15 @@
          inkscape:export-xdpi="90"
          ry="28.733591"
          rx="29.079268"
-         cy="586.59192"
-         cx="96.841148"
+         cy="560.59192"
+         cx="88.841148"
          id="path5002"
          style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383;stroke-opacity:1"
-         transform="matrix(0.57025196,0,0,0.56891495,-374.07945,470.69376)"
+         transform="matrix(0.57025196,0,0,0.56891495,-382.07945,444.69376)"
          id="g5840-2-0-8-1-8"
          class="mark-group">
         <g
@@ -1099,7 +1099,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383;stroke-opacity:1"
-         transform="matrix(0.74281184,0,0,0.74107029,-465.71545,444.62909)"
+         transform="matrix(0.74281184,0,0,0.74107029,-473.71545,418.62909)"
          id="g5840-2-0-8-1"
          class="mark-group">
         <g
@@ -1151,14 +1151,14 @@
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         y="535.32697"
-         x="73.128517"
+         y="509.32697"
+         x="65.128517"
          height="40.877811"
          width="4.8846474"
          id="rect5154"
          style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1158.0812,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1168.0812,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG1&quot;]}"
          id="g5533">
         <rect
@@ -1204,7 +1204,7 @@
              y="-274.22565"
              x="1339.9725"
              id="tspan14668"
-             sodipodi:role="line">%.1f</tspan></text>
+             sodipodi:role="line">.4s</tspan></text>
         <use
            height="100%"
            width="100%"
@@ -1215,7 +1215,7 @@
            x="0" />
       </g>
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1108.2019,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1118.2019,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG2&quot;]}"
          id="g5533-6">
         <rect
@@ -1261,7 +1261,7 @@
              y="-274.22565"
              x="1339.9725"
              id="tspan14668-3"
-             sodipodi:role="line">%.1f</tspan></text>
+             sodipodi:role="line">.4s</tspan></text>
         <use
            height="100%"
            width="100%"
@@ -1272,7 +1272,7 @@
            x="0" />
       </g>
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1058.3225,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1068.3225,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG3&quot;]}"
          id="g5533-0">
         <rect
@@ -1318,7 +1318,7 @@
              y="-274.22565"
              x="1339.9725"
              id="tspan14668-2"
-             sodipodi:role="line">%.1f</tspan></text>
+             sodipodi:role="line">.4s</tspan></text>
         <use
            height="100%"
            width="100%"
@@ -1334,11 +1334,12 @@
          id="text5767-3-2-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:1.2734648"
          transform="scale(1.0019215,0.99808219)"
-         x="314.00919"
-         y="668.94238">
+         x="304.02841"
+         y="668.94238"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}">
         <tspan
            id="tspan34299-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">U1</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">%s</tspan>
       </text>
       <text
          inkscape:export-ydpi="90"
@@ -1346,11 +1347,12 @@
          id="text5767-3-2-5-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:1.2734648"
          transform="scale(1.0019215,0.99808219)"
-         x="362.67685"
-         y="668.94238">
+         x="352.69608"
+         y="668.94238"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR TAG2&quot;,&quot;type&quot;:&quot;Good&quot;}">
         <tspan
            id="tspan34299-3-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">U2</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">%s</tspan>
       </text>
       <text
          inkscape:export-ydpi="90"
@@ -1358,11 +1360,12 @@
          id="text5767-3-2-5-6-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:1.2734648"
          transform="scale(1.0019215,0.99808219)"
-         x="412.47357"
-         y="668.94238">
+         x="402.4928"
+         y="668.94238"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR TAG3&quot;,&quot;type&quot;:&quot;Good&quot;}">
         <tspan
            id="tspan34299-3-1-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">U3</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">%s</tspan>
       </text>
     </g>
     <g
@@ -1760,19 +1763,6 @@
            d="m 159.76428,245.75785 a 2.6475306,1.9320342 23.304612 0 1 2.55441,2.47056 2.6475306,1.9320342 23.304612 0 1 -2.54325,1.54516 2.6475306,1.9320342 23.304612 0 1 -2.55441,-2.47057 2.6475306,1.9320342 23.304612 0 1 2.54325,-1.54515"
            id="path1944-1" />
       </g>
-      <text
-         transform="scale(1.0003805,0.99961965)"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"
-         id="text5408-2-5"
-         y="973.72717"
-         x="604.58038"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.94711685px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.72391367"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.94711685px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.72391367"
-           y="973.72717"
-           x="604.58038"
-           id="tspan5410-45-1"
-           sodipodi:role="line">%.1f m/s</tspan></text>
       <rect
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;0,100,50&quot;,&quot;src&quot;:&quot;TAG1&quot;,&quot;tag&quot;:&quot;#arc&quot;,&quot;type&quot;:&quot;Data&quot;}"
          y="786.13049"
@@ -2597,6 +2587,19 @@
          id="path15244"
          d="m 761.50933,784.54018 c -48.03769,0 -86.98006,38.91271 -86.98006,86.91401 0,48.00131 38.94237,86.91393 86.98006,86.91393 48.03784,0 86.98023,-38.91262 86.98023,-86.91393 0,-48.0013 -38.94239,-86.91401 -86.98023,-86.91401 z m 0,43.67552 c 23.89828,0 43.27154,19.35862 43.27154,43.23849 0,23.88006 -19.37326,43.23868 -43.27154,43.23868 -23.89814,0 -43.27148,-19.35862 -43.27148,-43.23868 0,-23.87987 19.37334,-43.23849 43.27148,-43.23849 z"
          style="opacity:0.41150441;fill:#216778;stroke:none;stroke-width:1.29302275;stroke-miterlimit:4;stroke-opacity:1" />
+      <text
+         transform="scale(1.0003805,0.99961965)"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         id="text5408-2-5"
+         y="973.72717"
+         x="604.58038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.94711685px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.72391367"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.94711685px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.72391367"
+           y="973.72717"
+           x="604.58038"
+           id="tspan5410-45-1"
+           sodipodi:role="line">.3s`m/s</tspan></text>
     </g>
     <g
        id="g1248"
