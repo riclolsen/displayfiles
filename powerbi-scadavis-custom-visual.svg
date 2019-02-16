@@ -1158,7 +1158,7 @@
          id="rect5154"
          style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1172.0812,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1174.0812,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG1&quot;]}"
          id="g5533">
         <rect
@@ -1215,7 +1215,7 @@
            x="0" />
       </g>
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1116.2019,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1118.2019,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG2&quot;]}"
          id="g5533-6">
         <rect
@@ -1272,7 +1272,7 @@
            x="0" />
       </g>
       <g
-         transform="matrix(1.097608,0,0,1.0967732,-1062.3225,945.7416)"
+         transform="matrix(1.097608,0,0,1.0967732,-1064.3225,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TAG3&quot;]}"
          id="g5533-0">
         <rect
@@ -1334,7 +1334,7 @@
          id="text5767-3-2-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:1.2734648"
          transform="scale(1.0019215,0.99808219)"
-         x="294.04764"
+         x="292.05148"
          y="668.94238"
          inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}">
         <tspan
@@ -2642,7 +2642,7 @@
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}">
       <tspan
          id="tspan34299-8-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">%.7s</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.2734648">%.15s</tspan>
     </text>
   </g>
 </svg>
