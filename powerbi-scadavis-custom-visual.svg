@@ -1789,7 +1789,7 @@
            id="path1944-1" />
       </g>
       <rect
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;0,100,50&quot;,&quot;src&quot;:&quot;!EVAL 100* $V('@1') / $V('@total')&quot;,&quot;tag&quot;:&quot;#arc&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;0,100,50&quot;,&quot;src&quot;:&quot;!EVAL debugger; 100* $V('@1') / $V('@total')&quot;,&quot;tag&quot;:&quot;#arc&quot;,&quot;type&quot;:&quot;Data&quot;}"
          y="774.49963"
          x="710.68829"
          height="170.64844"
