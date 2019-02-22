@@ -548,6 +548,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)">
+    <g
+       id="g1248-9"
+       transform="translate(-802.17297,-17.772594)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;\nif ( typeof $W.__initsvpbi2 === \&quot;undefined\&quot; ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;.text\&quot;).remove();\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n $W.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}">
+      <text
+         id="text1240-4"
+         y="90.954483"
+         x="816.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="816.20325"
+           id="tspan1238-4"
+           sodipodi:role="line">File:</tspan></text>
+    </g>
     <rect
        style="fill:#164450;fill-opacity:1;stroke:#333333;stroke-width:1.18103993"
        id="rect10996"
@@ -2613,28 +2628,13 @@
       <text
          id="text1240"
          y="90.954483"
-         x="816.20325"
+         x="756.20325"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="90.954483"
-           x="816.20325"
+           x="756.20325"
            id="tspan1238"
-           sodipodi:role="line">PBI Tags:</tspan></text>
-    </g>
-    <g
-       id="g1248-9"
-       transform="translate(-802.17297,-17.772594)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( typeof $W.__initsvpbi2 === \&quot;undefined\&quot; ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;.text\&quot;).remove();\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*30)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;26px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n $W.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}">
-      <text
-         id="text1240-4"
-         y="90.954483"
-         x="816.20325"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="90.954483"
-           x="816.20325"
-           id="tspan1238-4"
-           sodipodi:role="line">File Tags:</tspan></text>
+           sodipodi:role="line">PBI:</tspan></text>
     </g>
     <text
        inkscape:export-ydpi="90"
