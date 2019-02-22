@@ -1060,7 +1060,8 @@
          cy="560.59192"
          cx="88.841148"
          id="path5002"
-         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
+         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;-pbi-3&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1106,7 +1107,8 @@
                id="path5856-5-6-3-7-1"
                style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383px;stroke-opacity:1"
                d="M 986.79914,73.097224 845.95419,71.965918 c 16.41323,-58.217161 47.87069,-109.201631 34.18,-181.891618 l 74.37263,-0.0198 c -17.623,73.688901 11.18657,126.374958 32.56153,182.423916"
-               transform="translate(0.5,0.5)" />
+               transform="translate(0.5,0.5)"
+               inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;-pbi-2&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
           </g>
           <g
              style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383;stroke-opacity:1"
@@ -1160,7 +1162,7 @@
                style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383px;stroke-opacity:1"
                d="M 986.79914,73.097224 845.95419,71.965918 c 16.41323,-58.217161 47.87069,-109.201631 34.18,-181.891618 l 74.37263,-0.0198 c -17.623,73.688901 11.18657,126.374958 32.56153,182.423916"
                transform="translate(0.5,0.5)"
-               inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999&quot;,&quot;param&quot;:&quot;-pbi-1&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
+               inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;-pbi-1&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
           </g>
           <g
              style="fill:#b6bec2;fill-opacity:1;stroke:#556366;stroke-width:1.06330383;stroke-opacity:1"
