@@ -521,7 +521,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="678.74852"
-     inkscape:cy="459.66016"
+     inkscape:cy="298.03575"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -548,21 +548,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)">
-    <g
-       id="g1248-9"
-       transform="translate(-802.17297,-17.772594)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;\nif ( typeof $W.__initsvpbi2 === \&quot;undefined\&quot; ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;.text\&quot;).remove();\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n $W.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}">
-      <text
-         id="text1240-4"
-         y="90.954483"
-         x="816.20325"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="90.954483"
-           x="816.20325"
-           id="tspan1238-4"
-           sodipodi:role="line">File:</tspan></text>
-    </g>
     <rect
        style="fill:#164450;fill-opacity:1;stroke:#333333;stroke-width:1.2341702"
        id="rect10996"
@@ -572,9 +557,9 @@
        y="364.86768" />
     <g
        id="g2159"
-       transform="translate(462)">
+       transform="translate(502)">
       <g
-         transform="matrix(4.4150815,0,0,4.4150815,-10.335203,-130.87465)"
+         transform="matrix(4.4150815,0,0,4.4150815,41.664797,-130.87465)"
          id="g3804">
         <g
            id="g4908"
@@ -624,44 +609,44 @@
       <text
          id="text3808"
          y="165.81587"
-         x="151.60175"
+         x="203.60175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.54069328px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58850783"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.54069328px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.58850783"
            y="165.81587"
-           x="151.60175"
+           x="203.60175"
            id="tspan3806"
            sodipodi:role="line">Power BI Custom Visual</tspan></text>
       <text
          id="text3812"
-         y="225.79996"
-         x="21.508118"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77913147"
+         y="221.07707"
+         x="71.071609"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69463325"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
-           y="225.79996"
-           x="21.508118"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:16.39461708px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.69463325"
+           y="221.07707"
+           x="71.071609"
            id="tspan3810"
            sodipodi:role="line">Create synoptic graphics with </tspan><tspan
            id="tspan3818"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
-           y="264.75653"
-           x="21.508118"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:16.39461708px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.69463325"
+           y="255.80872"
+           x="71.071609"
            sodipodi:role="line">unprecedented level of control.</tspan><tspan
            id="tspan3814"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
-           y="303.71307"
-           x="21.508118"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:16.39461708px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.69463325"
+           y="290.54037"
+           x="71.071609"
            sodipodi:role="line">Animate with your Power BI data.</tspan><tspan
            id="tspan3841"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
-           y="342.66965"
-           x="21.508118"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:16.39461708px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.69463325"
+           y="325.27203"
+           x="71.071609"
            sodipodi:role="line">Access https://scadavis.io for details. </tspan><tspan
            id="tspan3816"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.16525269px;line-height:18.38892937px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.77913147"
-           y="381.62622"
-           x="21.508118"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.7853241px;line-height:16.39461708px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.69463325"
+           y="360.00369"
+           x="71.071609"
            sodipodi:role="line" /></text>
     </g>
     <g
@@ -1789,7 +1774,7 @@
            id="path1944-1" />
       </g>
       <rect
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;0,100,50&quot;,&quot;src&quot;:&quot;!EVAL debugger; 100* $V('@1') / $V('@total')&quot;,&quot;tag&quot;:&quot;#arc&quot;,&quot;type&quot;:&quot;Data&quot;}"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;0,100,50&quot;,&quot;src&quot;:&quot;!EVAL 100* $V('@1') / $V('@total')&quot;,&quot;tag&quot;:&quot;#arc&quot;,&quot;type&quot;:&quot;Data&quot;}"
          y="774.49963"
          x="710.68829"
          height="170.64844"
@@ -2639,6 +2624,47 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.29101562px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.29682612">%.15s</tspan>
       </text>
     </g>
+    <text
+       transform="scale(1.0050748,0.99495082)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR @total&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       id="text5408-2-5-0"
+       y="995.52362"
+       x="899.26392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.75038767"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75038767"
+         y="995.52362"
+         x="899.26392"
+         id="tspan5410-45-1-6"
+         sodipodi:role="line">%s</tspan></text>
+    <text
+       transform="scale(1.0050748,0.99495082)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@total&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       id="text5408-2-5-0-6"
+       y="971.87695"
+       x="897.4397"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.75038767"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75038767"
+         y="971.87695"
+         x="897.4397"
+         id="tspan5410-45-1-6-6"
+         sodipodi:role="line">.3s</tspan></text>
+    <g
+       id="g1248-9"
+       transform="translate(-802.17297,-17.772594)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;\nif ( typeof $W.__initsvpbi2 === \&quot;undefined\&quot; ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;.text\&quot;).remove();\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n $W.__initsvpbi2 = 1;&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}">
+      <text
+         id="text1240-4"
+         y="90.954483"
+         x="816.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="816.20325"
+           id="tspan1238-4"
+           sodipodi:role="line">File</tspan></text>
+    </g>
     <g
        id="g1248"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;*\&quot;).select(function(d, i) { return i &gt; 1 ? this : null; }).remove();\n  var cnt = 1;\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  for(var tag in NPTS)\n   {\n    svg.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+cnt*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(tag + \&quot; \&quot; + $V(tag) + \&quot; \&quot; + ((tag.indexOf('@')==0)? $W.getDescription(tag) : \&quot;\&quot;) );\n    cnt++;\n    }&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;}"
@@ -2652,33 +2678,7 @@
            y="90.954483"
            x="756.20325"
            id="tspan1238"
-           sodipodi:role="line">PBI:</tspan></text>
+           sodipodi:role="line">PBI</tspan></text>
     </g>
-    <text
-       transform="scale(1.0050748,0.99495082)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR @total&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       id="text5408-2-5-0"
-       y="943.72394"
-       x="886.29913"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.75038767"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75038767"
-         y="943.72394"
-         x="886.29913"
-         id="tspan5410-45-1-6"
-         sodipodi:role="line">%s</tspan></text>
-    <text
-       transform="scale(1.0050748,0.99495082)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@total&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       id="text5408-2-5-0-6"
-       y="973.88708"
-       x="887.49005"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:0%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.75038767"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78630829px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75038767"
-         y="973.88708"
-         x="887.49005"
-         id="tspan5410-45-1-6-6"
-         sodipodi:role="line">.3s</tspan></text>
   </g>
 </svg>
