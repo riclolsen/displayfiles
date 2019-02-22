@@ -521,7 +521,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="517.12411"
-     inkscape:cy="474.81245"
+     inkscape:cy="459.66016"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1051,13 +1051,14 @@
          height="29.668461"
          width="58.131466"
          id="rect5000"
-         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
+         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648"
+         inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
       <ellipse
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          ry="28.733591"
          rx="29.079268"
-         cy="560.59192"
+         cy="556.59192"
          cx="88.841148"
          id="path5002"
          style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648"
@@ -1178,7 +1179,8 @@
          height="40.877811"
          width="4.8846474"
          id="rect5154"
-         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648" />
+         style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648"
+         inkscape:label="{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
       <g
          transform="matrix(1.097608,0,0,1.0967732,-1174.0812,945.7416)"
          inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=@1&quot;]}"
