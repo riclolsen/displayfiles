@@ -2669,7 +2669,7 @@
          sodipodi:role="line">%s</tspan></text>
     <text
        transform="scale(1.0050748,0.99495082)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR @total&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@total&quot;,&quot;type&quot;:&quot;Good&quot;}"
        id="text5408-2-5-0-6"
        y="973.88708"
        x="887.49005"
