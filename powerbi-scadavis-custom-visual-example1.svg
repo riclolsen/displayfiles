@@ -149,5 +149,39 @@
          y="288.54138"
          style="stroke-width:0.16024302"
          id="tspan5569">Example 1</tspan></text>
+    <g
+       id="g1248-9"
+       transform="matrix(0.26458333,0,0,0.26458333,-205.85847,24.737538)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;if ( typeof $W.__initsvpbi2 === \&quot;undefined\&quot; ) {\n  var pnts = $W.lstpnt.split(\&quot;,\&quot;);\n  var svg = d3.select(thisobj);\n  svg.selectAll(\&quot;.text\&quot;).remove();\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  var g = svg.append(\&quot;g\&quot;).style(\&quot;display\&quot;, \&quot;none\&quot;);\n  for(var i=0; i&lt; pnts.length; i++)\n   {\n    if (pnts[i] == \&quot;\&quot;)\n      continue;\n    g.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+(1+i)*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(pnts[i]);\n    }\n  }\n $W.__initsvpbi2 = 1;\n&quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;if ( thisobj.firstElementChild.nextElementSibling.style.display == \&quot;\&quot;)\n  thisobj.firstElementChild.nextElementSibling.style.display=\&quot;none\&quot;;\nelse\n  thisobj.firstElementChild.nextElementSibling.style.display=\&quot;\&quot;;&quot;}]}">
+      <text
+         id="text1240-4"
+         y="90.954483"
+         x="816.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="816.20325"
+           id="tspan1238-4"
+           sodipodi:role="line"><tspan
+   style="font-size:21.33333397px"
+   id="tspan4945">▼</tspan>File</tspan></text>
+    </g>
+    <g
+       id="g1248"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var svg = d3.select(thisobj);\n  // svg.selectAll(\&quot;*\&quot;).select(function(d, i) { return i &gt; 1 ? this : null; }).remove();\n  svg.selectAll(\&quot;.g\&quot;).remove();\n  var cnt = 1;\n  var x = svg[0][0].getBBox().x;\n  var y = svg[0][0].getBBox().y + svg[0][0].getBBox().height;\n  var g = svg.append(\&quot;g\&quot;).style(\&quot;display\&quot;, \&quot;none\&quot;);\n  var ordered = {};\n  Object.keys(NPTS).sort().forEach(function (key) {\n      ordered[key] = NPTS[key];\n  });\n\n  for(var tag in ordered)\n   {\n    g.append(\&quot;text\&quot;)\n    .attr(\&quot;x\&quot;, x)\n    .attr(\&quot;y\&quot;, y+cnt*22)\n    .attr(\&quot;fill\&quot;, \&quot;red\&quot;)\n    .attr(\&quot;font-family\&quot;, \&quot;tahoma\&quot;)\n    .attr(\&quot;font-size\&quot;, \&quot;20px\&quot;)\n    .text(tag + \&quot; \&quot; + $V(tag) + \&quot; \&quot; + ((tag.indexOf('@')==0)? $W.getDescription(tag) : \&quot;\&quot;) );\n    cnt++;\n    }\n  &quot;,&quot;tag&quot;:&quot;#exec_on_update&quot;,&quot;type&quot;:&quot;Data&quot;},{&quot;attr&quot;:&quot;script&quot;,&quot;list&quot;:[{&quot;evt&quot;:&quot;mousedown&quot;,&quot;param&quot;:&quot;if ( thisobj.firstElementChild.nextElementSibling.style.display == \&quot;\&quot;)\n  thisobj.firstElementChild.nextElementSibling.style.display=\&quot;none\&quot;;\nelse\n  thisobj.firstElementChild.nextElementSibling.style.display=\&quot;\&quot;;&quot;}]}"
+       transform="matrix(0.26458333,0,0,0.26458333,-165.74647,24.786319)">
+      <text
+         id="text1240"
+         y="90.954483"
+         x="756.20325"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="90.954483"
+           x="756.20325"
+           id="tspan1238"
+           sodipodi:role="line"><tspan
+   style="font-size:21.33333397px"
+   id="tspan4953">▼</tspan>PBI</tspan></text>
+    </g>
   </g>
 </svg>
