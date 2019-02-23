@@ -67,8 +67,9 @@
        width="89.358002"
        height="648.11029"
        x="489.87701"
-       y="77.726715"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;@1&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;green&quot;,&quot;tag&quot;:&quot;@1&quot;},{&quot;data&quot;:&quot;500&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
+       y="-725.83698"
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:500,&quot;min&quot;:0,&quot;tag&quot;:&quot;@1&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;green&quot;,&quot;tag&quot;:&quot;@1&quot;},{&quot;data&quot;:&quot;500&quot;,&quot;param&quot;:&quot;red&quot;,&quot;tag&quot;:&quot;@1&quot;}]}"
+       transform="scale(1,-1)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.44841003px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.7862103"
