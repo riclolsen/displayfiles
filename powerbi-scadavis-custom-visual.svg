@@ -521,9 +521,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
      inkscape:cx="671.17237"
-     inkscape:cy="743.00795"
+     inkscape:cy="500.57134"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1909"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
@@ -991,7 +991,7 @@
            height="147.23224"
            x="2171.5449"
            y="795.58484"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{\n  \&quot;width\&quot;: 440,\n  \&quot;height\&quot;: 200,\n  \&quot;padding\&quot;: {\&quot;top\&quot;: 10, \&quot;left\&quot;: 30, \&quot;bottom\&quot;: 30, \&quot;right\&quot;: 10},\n  \&quot;data\&quot;: [\n    {\n      \&quot;name\&quot;: \&quot;table\&quot;,\n      \&quot;values\&quot;: [\n        {\&quot;x\&quot;: 1,  \&quot;y\&quot;: \&quot;PNT#1\&quot;,  \&quot;bay\&quot; : \&quot;DCR#1\&quot;}, \n        {\&quot;x\&quot;: 2,  \&quot;y\&quot;: \&quot;PNT#2\&quot;,  \&quot;bay\&quot; : \&quot;DCR#2\&quot;},\n        {\&quot;x\&quot;: 3,  \&quot;y\&quot;: \&quot;PNT#3\&quot;,  \&quot;bay\&quot; : \&quot;DCR#3\&quot;}, \n        {\&quot;x\&quot;: 4,  \&quot;y\&quot;: \&quot;PNT#4\&quot;,  \&quot;bay\&quot; : \&quot;DCR#4\&quot;},\n        {\&quot;x\&quot;: 5,  \&quot;y\&quot;: \&quot;PNT#5\&quot;,  \&quot;bay\&quot; : \&quot;DCR#5\&quot;}, \n        {\&quot;x\&quot;: 6,  \&quot;y\&quot;: \&quot;PNT#6\&quot;,  \&quot;bay\&quot; : \&quot;DCR#6\&quot;},\n        {\&quot;x\&quot;: 7,  \&quot;y\&quot;: \&quot;PNT#7\&quot;,  \&quot;bay\&quot; : \&quot;DCR#7\&quot;}, \n        {\&quot;x\&quot;: 8,  \&quot;y\&quot;: \&quot;PNT#8\&quot;,  \&quot;bay\&quot; : \&quot;DCR#8\&quot;},\n        {\&quot;x\&quot;: 9,  \&quot;y\&quot;: \&quot;PNT#9\&quot;,  \&quot;bay\&quot; : \&quot;DCR#9\&quot;}, \n        {\&quot;x\&quot;: 10, \&quot;y\&quot;: \&quot;PNT#10\&quot;, \&quot;bay\&quot; : \&quot;DCR#10\&quot;}\n      ]\n    }\n  ],\n  \&quot;scales\&quot;: [\n    {\n      \&quot;name\&quot;: \&quot;x\&quot;,\n      \&quot;type\&quot;: \&quot;ordinal\&quot;,\n      \&quot;range\&quot;: \&quot;width\&quot;,\n      \&quot;zero\&quot;: false,\n      \&quot;domain\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;, \&quot;field\&quot;: \&quot;x\&quot;}\n    },\n    {\n      \&quot;name\&quot;: \&quot;y\&quot;,\n      \&quot;type\&quot;: \&quot;linear\&quot;,\n      \&quot;range\&quot;: \&quot;height\&quot;,\n      \&quot;nice\&quot;: true,\n      \&quot;domain\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;, \&quot;field\&quot;: \&quot;y\&quot;}\n    }\n  ],\n  \&quot;axes\&quot;: [\n    { \n      \&quot;type\&quot;: \&quot;x\&quot;, \n      \&quot;scale\&quot;: \&quot;x\&quot;,  \n      \&quot;ticks\&quot;: 0, \n      \&quot;properties\&quot;: { \n           \&quot;labels\&quot;: {\n              \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;none\&quot;}\n              },\n           \&quot;ticks\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;none\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.7}\n              },\n          \&quot;axis\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}\n              }\n          }\n    },\n    { \n      \&quot;type\&quot;: \&quot;y\&quot;, \n      \&quot;scale\&quot;: \&quot;y\&quot; , \n      \&quot;format\&quot;: \&quot;.3s\&quot;, \n      \&quot;grid\&quot;: true,\n      \&quot;properties\&quot;: {\n          \&quot;grid\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.5}\n              },\n          \&quot;axis\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}\n              },\n          \&quot;labels\&quot;: {\n              \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n              \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n              \&quot;fontSize\&quot;: {\&quot;value\&quot;: 14},\n              \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n              \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300}\n              },\n          \&quot;ticks\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.7}\n              }                  \n          }\n    }\n  ],\n  \&quot;marks\&quot;: [\n    {\n      \&quot;type\&quot;: \&quot;rect\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 0},\n          \&quot;width\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;band\&quot;: true, \&quot;offset\&quot;: -12},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;-pbi-1\&quot;}\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;line\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 2}\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;text\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;, \&quot;offset\&quot;: -10},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;align\&quot;: {\&quot;value\&quot;: \&quot;center\&quot;},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n          \&quot;fontSize\&quot;: {\&quot;value\&quot;: 15},\n          \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n          \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300},\n          \&quot;text\&quot;: { \&quot;template\&quot;: \&quot;{{datum.y|number:'.3s'}}\&quot; }\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;text\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: -30},\n          \&quot;align\&quot;: {\&quot;value\&quot;: \&quot;center\&quot;},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n          \&quot;fontSize\&quot;: {\&quot;value\&quot;: 14},\n          \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n          \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300},\n          \&quot;text\&quot;: { \&quot;template\&quot;: \&quot;{{datum.bay|left:7}}\&quot; }\n        }\n      }\n    }\n  ]\n}\n&quot;,&quot;src&quot;:&quot;@1,@2,@3,@4,@5,@6,@7,@8,@9,@10&quot;,&quot;tag&quot;:&quot;#vega&quot;,&quot;type&quot;:&quot;Data&quot;}" />
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;{\n  \&quot;width\&quot;: 440,\n  \&quot;height\&quot;: 200,\n  \&quot;padding\&quot;: {\&quot;top\&quot;: 10, \&quot;left\&quot;: 30, \&quot;bottom\&quot;: 30, \&quot;right\&quot;: 10},\n  \&quot;data\&quot;: [\n    {\n      \&quot;name\&quot;: \&quot;table\&quot;,\n      \&quot;values\&quot;: [\n        {\&quot;x\&quot;: 1,  \&quot;y\&quot;: \&quot;PNT#1\&quot;,  \&quot;bay\&quot; : \&quot;DCR#1\&quot;}, \n        {\&quot;x\&quot;: 2,  \&quot;y\&quot;: \&quot;PNT#2\&quot;,  \&quot;bay\&quot; : \&quot;DCR#2\&quot;},\n        {\&quot;x\&quot;: 3,  \&quot;y\&quot;: \&quot;PNT#3\&quot;,  \&quot;bay\&quot; : \&quot;DCR#3\&quot;}, \n        {\&quot;x\&quot;: 4,  \&quot;y\&quot;: \&quot;PNT#4\&quot;,  \&quot;bay\&quot; : \&quot;DCR#4\&quot;},\n        {\&quot;x\&quot;: 5,  \&quot;y\&quot;: \&quot;PNT#5\&quot;,  \&quot;bay\&quot; : \&quot;DCR#5\&quot;}, \n        {\&quot;x\&quot;: 6,  \&quot;y\&quot;: \&quot;PNT#6\&quot;,  \&quot;bay\&quot; : \&quot;DCR#6\&quot;},\n        {\&quot;x\&quot;: 7,  \&quot;y\&quot;: \&quot;PNT#7\&quot;,  \&quot;bay\&quot; : \&quot;DCR#7\&quot;}, \n        {\&quot;x\&quot;: 8,  \&quot;y\&quot;: \&quot;PNT#8\&quot;,  \&quot;bay\&quot; : \&quot;DCR#8\&quot;},\n        {\&quot;x\&quot;: 9,  \&quot;y\&quot;: \&quot;PNT#9\&quot;,  \&quot;bay\&quot; : \&quot;DCR#9\&quot;}, \n        {\&quot;x\&quot;: 10, \&quot;y\&quot;: \&quot;PNT#10\&quot;, \&quot;bay\&quot; : \&quot;DCR#10\&quot;}\n      ]\n    }\n  ],\n  \&quot;scales\&quot;: [\n    {\n      \&quot;name\&quot;: \&quot;x\&quot;,\n      \&quot;type\&quot;: \&quot;ordinal\&quot;,\n      \&quot;range\&quot;: \&quot;width\&quot;,\n      \&quot;zero\&quot;: false,\n      \&quot;domain\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;, \&quot;field\&quot;: \&quot;x\&quot;}\n    },\n    {\n      \&quot;name\&quot;: \&quot;y\&quot;,\n      \&quot;type\&quot;: \&quot;linear\&quot;,\n      \&quot;range\&quot;: \&quot;height\&quot;,\n      \&quot;nice\&quot;: true,\n      \&quot;domain\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;, \&quot;field\&quot;: \&quot;y\&quot;}\n    }\n  ],\n  \&quot;axes\&quot;: [\n    { \n      \&quot;type\&quot;: \&quot;x\&quot;, \n      \&quot;scale\&quot;: \&quot;x\&quot;,  \n      \&quot;ticks\&quot;: 0, \n      \&quot;properties\&quot;: { \n           \&quot;labels\&quot;: {\n              \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;\&quot;}\n              },\n           \&quot;ticks\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.7}\n              },\n          \&quot;axis\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}\n              }\n          }\n    },\n    { \n      \&quot;type\&quot;: \&quot;y\&quot;, \n      \&quot;scale\&quot;: \&quot;y\&quot; , \n      \&quot;format\&quot;: \&quot;.3s\&quot;, \n      \&quot;grid\&quot;: true,\n      \&quot;properties\&quot;: {\n          \&quot;grid\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.5}\n              },\n          \&quot;axis\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}\n              },\n          \&quot;labels\&quot;: {\n              \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n              \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n              \&quot;fontSize\&quot;: {\&quot;value\&quot;: 12},\n              \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n              \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300}\n              },\n          \&quot;ticks\&quot;: {\n              \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;}, \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 0.7}\n              }                  \n          }\n    }\n  ],\n  \&quot;marks\&quot;: [\n    {\n      \&quot;type\&quot;: \&quot;rect\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 0},\n          \&quot;width\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;band\&quot;: true, \&quot;offset\&quot;: -12},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;-pbi-1\&quot;}\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;line\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;stroke\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;strokeWidth\&quot;: {\&quot;value\&quot;: 2}\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;text\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;field\&quot;: \&quot;y\&quot;, \&quot;offset\&quot;: -10},\n          \&quot;y2\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: 0},\n          \&quot;align\&quot;: {\&quot;value\&quot;: \&quot;center\&quot;},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n          \&quot;fontSize\&quot;: {\&quot;value\&quot;: 12},\n          \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n          \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300},\n          \&quot;text\&quot;: { \&quot;template\&quot;: \&quot;{{datum.y|number:'.3s'}}\&quot; }\n        }\n      }\n    },\n    {\n      \&quot;type\&quot;: \&quot;text\&quot;,\n      \&quot;from\&quot;: {\&quot;data\&quot;: \&quot;table\&quot;},\n      \&quot;properties\&quot;: {\n        \&quot;enter\&quot;: {\n          \&quot;interpolate\&quot;: {\&quot;value\&quot;: \&quot;monotone\&quot;},\n          \&quot;x\&quot;: {\&quot;scale\&quot;: \&quot;x\&quot;, \&quot;field\&quot;: \&quot;x\&quot;, \&quot;offset\&quot;: 24},\n          \&quot;y\&quot;: {\&quot;scale\&quot;: \&quot;y\&quot;, \&quot;value\&quot;: -30},\n          \&quot;align\&quot;: {\&quot;value\&quot;: \&quot;center\&quot;},\n          \&quot;fill\&quot;: {\&quot;value\&quot;: \&quot;#00eeee\&quot;},\n          \&quot;font\&quot;: {\&quot;value\&quot;: \&quot;Trebuchet MS\&quot;},\n          \&quot;fontSize\&quot;: {\&quot;value\&quot;: 14},\n          \&quot;fontStyle\&quot;: {\&quot;value\&quot;: \&quot;normal\&quot;},\n          \&quot;fontWeight\&quot;: {\&quot;value\&quot;: 300},\n          \&quot;text\&quot;: { \&quot;template\&quot;: \&quot;{{datum.bay|left:7}}\&quot; }\n        }\n      }\n    }\n  ]\n}\n&quot;,&quot;src&quot;:&quot;@1,@2,@3,@4,@5,@6,@7,@8,@9,@10&quot;,&quot;tag&quot;:&quot;#vega&quot;,&quot;type&quot;:&quot;Data&quot;}" />
       </g>
     </g>
     <g
@@ -1166,177 +1166,165 @@
          id="rect5154"
          style="fill:#b6bec2;fill-opacity:1;stroke:none;stroke-width:1.2734648"
          inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-999999999999999&quot;,&quot;param&quot;:&quot;-pbi-3&quot;,&quot;tag&quot;:&quot;@1&quot;}]}" />
-      <g
-         transform="matrix(1.097608,0,0,1.0967732,-1179.7386,945.7416)"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=@1&quot;]}"
-         id="g5533">
-        <rect
-           inkscape:label=""
-           style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1519-9"
-           width="10"
-           height="130"
-           x="1336.8795"
-           y="-425.69293" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-4"
-           width="10"
-           height="22.084702"
-           x="-1346.8337"
-           y="403.62723"
-           inkscape:label=""
-           transform="scale(-1)" />
-        <path
-           style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 1316.8795,-306.22042 20,10 v 0 l -20,10 z"
-           id="rect1521-8"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-1-8"
-           width="10"
-           height="24.491425"
-           x="1336.8795"
-           y="-319.71191"
-           inkscape:label="" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
-           id="text14666"
-           y="-274.22565"
-           x="1339.9725"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-             y="-274.22565"
-             x="1339.9725"
-             id="tspan14668"
-             sodipodi:role="line">.3s</tspan></text>
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(0,-130.04333)"
-           id="use2392"
-           xlink:href="#rect1521-8"
-           y="0"
-           x="0" />
-      </g>
-      <g
-         transform="matrix(1.097608,0,0,1.0967732,-1123.8593,945.7416)"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=@2&quot;]}"
-         id="g5533-6">
-        <rect
-           inkscape:label=""
-           style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1519-9-3"
-           width="10"
-           height="130"
-           x="1336.8795"
-           y="-425.69293" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-4-0"
-           width="10"
-           height="22.084702"
-           x="-1346.8337"
-           y="403.62723"
-           inkscape:label=""
-           transform="scale(-1)" />
-        <path
-           style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 1316.8795,-306.22042 20,10 v 0 l -20,10 z"
-           id="rect1521-8-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-1-8-8"
-           width="10"
-           height="24.491425"
-           x="1336.8795"
-           y="-319.71191"
-           inkscape:label="" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
-           id="text14666-2"
-           y="-274.22565"
-           x="1339.9725"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-             y="-274.22565"
-             x="1339.9725"
-             id="tspan14668-3"
-             sodipodi:role="line">.3s</tspan></text>
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(0,-130.04333)"
-           id="use2394"
-           xlink:href="#rect1521-8-0"
-           y="0"
-           x="0" />
-      </g>
-      <g
-         transform="matrix(1.097608,0,0,1.0967732,-1069.9799,945.7416)"
-         inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=@3&quot;]}"
-         id="g5533-0">
-        <rect
-           inkscape:label=""
-           style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1519-9-6"
-           width="10"
-           height="130"
-           x="1336.8795"
-           y="-425.69293" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-4-5"
-           width="10"
-           height="22.084702"
-           x="-1346.8337"
-           y="403.62723"
-           inkscape:label=""
-           transform="scale(-1)" />
-        <path
-           style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m 1316.8795,-306.22042 20,10 v 0 l -20,10 z"
-           id="rect1521-8-09"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc"
-           inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;%n&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}" />
-        <rect
-           style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect1517-1-8-7"
-           width="10"
-           height="24.491425"
-           x="1336.8795"
-           y="-319.71191"
-           inkscape:label="" />
-        <text
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
-           id="text14666-28"
-           y="-274.22565"
-           x="1339.9725"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47546291px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-             y="-274.22565"
-             x="1339.9725"
-             id="tspan14668-2"
-             sodipodi:role="line">.3s</tspan></text>
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(0,-130.04333)"
-           id="use2396"
-           xlink:href="#rect1521-8-09"
-           y="0"
-           x="0" />
-      </g>
+      <rect
+         y="478.853"
+         x="287.63104"
+         height="142.58052"
+         width="10.97608"
+         id="rect1519-9"
+         style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905"
+         inkscape:label="" />
+      <rect
+         transform="scale(-1)"
+         inkscape:label=""
+         y="-503.05408"
+         x="-298.55688"
+         height="24.221909"
+         width="10.97608"
+         id="rect1517-4"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <path
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;!EVAL 100 * $V('@1') / $V('@total')&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1521-8"
+         d="m 265.67887,609.88725 21.95216,10.96773 v 0 l -21.95216,10.96773 z"
+         style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <rect
+         inkscape:label=""
+         y="595.09015"
+         x="287.63104"
+         height="26.861538"
+         width="10.97608"
+         id="rect1517-1-8"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.0971905"
+         x="290.91528"
+         y="645.22369"
+         id="text14666"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@1&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         transform="scale(1.0003805,0.99961965)"><tspan
+           sodipodi:role="line"
+           id="tspan14668"
+           x="290.91528"
+           y="645.22369"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.0971905">.3s</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8"
+         id="use2392"
+         transform="translate(4.0552002e-6,-142.62804)"
+         width="100%"
+         height="100%" />
+      <rect
+         y="478.853"
+         x="343.51035"
+         height="142.58052"
+         width="10.97608"
+         id="rect1519-9-3"
+         style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905"
+         inkscape:label="" />
+      <rect
+         transform="scale(-1)"
+         inkscape:label=""
+         y="-503.05408"
+         x="-354.43619"
+         height="24.221909"
+         width="10.97608"
+         id="rect1517-4-0"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <path
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;!EVAL 100 * $V('@2') / $V('@total')&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1521-8-0"
+         d="m 321.55817,609.88725 21.95216,10.96773 v 0 l -21.95216,10.96773 z"
+         style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <rect
+         inkscape:label=""
+         y="595.09015"
+         x="343.51035"
+         height="26.861538"
+         width="10.97608"
+         id="rect1517-1-8-8"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.0971905"
+         x="346.77332"
+         y="645.22369"
+         id="text14666-2"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@2&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         transform="scale(1.0003805,0.99961965)"><tspan
+           sodipodi:role="line"
+           id="tspan14668-3"
+           x="346.77332"
+           y="645.22369"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.0971905">.3s</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8-0"
+         id="use2394"
+         transform="translate(-2.89856e-5,-142.62804)"
+         width="100%"
+         height="100%" />
+      <rect
+         y="478.853"
+         x="397.38974"
+         height="142.58052"
+         width="10.97608"
+         id="rect1519-9-6"
+         style="fill:#2c89a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905"
+         inkscape:label="" />
+      <rect
+         transform="scale(-1)"
+         inkscape:label=""
+         y="-503.05408"
+         x="-408.31558"
+         height="24.221909"
+         width="10.97608"
+         id="rect1517-4-5"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <path
+         inkscape:label="{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;!EVAL 100 * $V('@3') / $V('@total')&quot;},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL V['%n'] !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1521-8-09"
+         d="m 375.43757,609.88725 21.95216,10.96773 v 0 l -21.95216,10.96773 z"
+         style="fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <rect
+         inkscape:label=""
+         y="595.09015"
+         x="397.38974"
+         height="26.861538"
+         width="10.97608"
+         id="rect1517-1-8-7"
+         style="fill:#6b6565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0971905" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.0971905"
+         x="400.63223"
+         y="645.22369"
+         id="text14666-28"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+         transform="scale(1.0003805,0.99961965)"><tspan
+           sodipodi:role="line"
+           id="tspan14668-2"
+           x="400.63223"
+           y="645.22369"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97953033px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.0971905">.3s</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect1521-8-09"
+         id="use2396"
+         transform="translate(4.8647985e-7,-142.62804)"
+         width="100%"
+         height="100%" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
