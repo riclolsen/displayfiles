@@ -476,7 +476,7 @@
      inkscape:cx="246.03004"
      inkscape:cy="784.44824"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2227-6-0"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
@@ -1007,7 +1007,7 @@
          id="g2227-6-0-7">
         <g
            id="eolic1-4"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.3, 'calcMode':'paced' });\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\nsetTimeout( fuction(){\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.3, 'calcMode':'paced' });\n},100);\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
           <g
              id="g2213-7-8-1">
             <g
@@ -1090,7 +1090,7 @@
          id="g2227-6-0-7-7">
         <g
            id="eolic1-4-7"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.2, 'calcMode':'paced' });\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\nsetTimeout( fuction(){\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.2, 'calcMode':'paced' });\n},100);&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
           <g
              id="g2213-7-8-1-2">
             <g
@@ -1159,7 +1159,7 @@
          id="g2227-6-0">
         <g
            id="eolic1"
-           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.4, 'calcMode':'paced' });\n\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
+           inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;var bb = thisobj.getBBox();\nvar xcen = bb.x + bb.width/2;\nvar ycen = bb.y + (1.15*bb.height/2);\nsetTimeout( fuction(){\n$W.Animate( thisobj, 'animateTransform', {'attributeType':'xml', 'attributeName':'transform', 'type': 'rotate', 'from': '0 '+ xcen + ' ' + ycen, 'to': '360 ' + xcen + ' ' + ycen, 'repeatCount':'indefinite','dur': 4.4, 'calcMode':'paced' });\n},100);\n&quot;,&quot;tag&quot;:&quot;#exec&quot;,&quot;type&quot;:&quot;Data&quot;}">
           <g
              id="g2213-7-8">
             <g
