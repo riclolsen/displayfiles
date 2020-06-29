@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-1065.7143"
-     inkscape:cy="560"
+     inkscape:zoom="0.175"
+     inkscape:cx="1836.7885"
+     inkscape:cy="-610.5805"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,29 +57,22 @@
        id="rectpic"
        width="40.82143"
        height="128.5119"
-       x="52.160713"
-       y="121.61904"
+       x="61.610111"
+       y="24.403559"
        style="stroke-width:0.26458332"
-       inkscape:label="{&quot;@ttr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%one=&quot;]},{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Bar&quot;},{&quot;@ttr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;&quot;,&quot;param&quot;:&quot;#1E90FF&quot;,&quot;tag&quot;:&quot;col&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotate&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Bar&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#1E90FF&quot;,&quot;tag&quot;:&quot;col&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;rotate&quot;}" />
     <path
-       style="stroke-width:2.85714293;fill:#00ffff"
-       d="M 198.57143,702.8054 V 461.37683 H 274.28571 350 V 702.8054 944.23397 h -75.71429 -75.71428 z"
-       id="path3715"
-       inkscape:connector-curvature="0"
-       transform="scale(0.26458333)" />
-    <path
-       style="fill:#00ffff;stroke-width:2.85714293"
-       d="M 198.57143,702.8054 V 461.37683 H 274.28571 350 V 702.8054 944.23397 h -75.71429 -75.71428 z"
+       style="fill:#00ffff;stroke-width:0.75595242"
+       d="M 62.36607,222.61428 V 158.7363 h 20.032735 20.032735 v 63.87798 63.87797 H 82.398805 62.36607 Z"
        id="path3717"
        inkscape:connector-curvature="0"
-       transform="scale(0.26458333)"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;tag1&quot;},{&quot;data&quot;:&quot;50&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;tag1&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;tag2&quot;},{&quot;attr&quot;:&quot;slider&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;readonly&quot;:0,&quot;tag&quot;:&quot;tag3&quot;}" />
     <use
        x="0"
        y="0"
        xlink:href="#path3717"
        id="use815"
-       transform="translate(80.130952,-1.5119048)"
+       transform="translate(68.640488)"
        width="100%"
        height="100%" />
   </g>
