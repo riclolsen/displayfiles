@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3991922"
-     inkscape:cx="866.63321"
-     inkscape:cy="506.38553"
+     inkscape:zoom="0.69959611"
+     inkscape:cx="1010.7817"
+     inkscape:cy="307.33666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -13610,7 +13610,7 @@
      inkscape:label="Layer 1">
     <g
        id="g10202"
-       transform="matrix(0.6316665,0,0,0.6316665,-469.32251,291.77371)"
+       transform="matrix(0.6316665,0,0,0.6316665,-489.32251,231.77371)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=STOP_BUTTON&quot;]}">
       <rect
          style="fill:#ff0000;stroke:none;stroke-width:0.8343969"
@@ -13656,7 +13656,7 @@
     <g
        id="g3821"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=OPERATIONAL_TIME_STATE&quot;]}"
-       transform="translate(32.876112,214.40943)">
+       transform="translate(12.876112,154.40943)">
       <rect
          ry="9.5287514"
          y="108.563"
@@ -13679,7 +13679,7 @@
     </g>
     <g
        id="gBELL_BUTTON"
-       transform="translate(-1447.5297,118.35285)"
+       transform="translate(-1467.5297,58.35285)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=BELL_BUTTON&quot;]},{&quot;attr&quot;:&quot;tooltips&quot;,&quot;param&quot;:[&quot;!EVAL $V('BELL_BUTTON') !END&quot;],&quot;size&quot;:12,&quot;style&quot;:&quot;&quot;}">
       <g
          transform="translate(321.02648,53.740115)"
@@ -14065,14 +14065,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.65527916px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56638199"
-       x="198.9458"
-       y="542.08362"
+       x="178.9458"
+       y="482.08362"
        id="text3825"
        inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Healthy&quot;,&quot;1=Proving period&quot;,&quot;2=Alarm&quot;,&quot;3=First up alarm guilty&quot;],&quot;tag&quot;:&quot;LSL-01_STATUS&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3823"
-         x="198.9458"
-         y="542.08362"
+         x="178.9458"
+         y="482.08362"
          style="stroke-width:0.56638199">%s</tspan></text>
     <g
        id="g10367-7"
@@ -16668,7 +16668,7 @@
     </g>
     <g
        id="g10469-7-1-4"
-       transform="matrix(0.40150681,0,0,0.40150681,758.23844,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,758.23844,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-60&quot;,&quot;%m=TT-60_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -16809,7 +16809,7 @@
     </g>
     <g
        id="g10469-7-4-6-1"
-       transform="matrix(0.40150681,0,0,0.40150681,616.59104,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,616.59104,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-59&quot;,&quot;%m=TT-59_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -16950,7 +16950,7 @@
     </g>
     <g
        id="g10469-7-4-1-3-6"
-       transform="matrix(0.40150681,0,0,0.40150681,474.94364,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,474.94364,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-58&quot;,&quot;%m=TT-58_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17091,7 +17091,7 @@
     </g>
     <g
        id="g10469-7-4-3-1-3"
-       transform="matrix(0.40150681,0,0,0.40150681,333.29624,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,333.29624,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-57&quot;,&quot;%m=TT-57_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17232,7 +17232,7 @@
     </g>
     <g
        id="g10469-7-4-3-0-9-0"
-       transform="matrix(0.40150681,0,0,0.40150681,191.64884,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,191.64884,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-56&quot;,&quot;%m=TT-56_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17373,7 +17373,7 @@
     </g>
     <g
        id="g10469-7-4-3-0-8-9-2"
-       transform="matrix(0.40150681,0,0,0.40150681,50.001441,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,50.001441,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-55&quot;,&quot;%m=TT-55_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17514,7 +17514,7 @@
     </g>
     <g
        id="g10469-7-4-3-0-2-6-1"
-       transform="matrix(0.40150681,0,0,0.40150681,-91.645959,854.0409)"
+       transform="matrix(0.40150681,0,0,0.40150681,-91.645959,774.0409)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-54&quot;,&quot;%m=TT-54_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17655,7 +17655,7 @@
     </g>
     <g
        id="g10469-7-4-3-0-80-3-3"
-       transform="matrix(0.40150681,0,0,0.40150681,899.88582,856.06237)"
+       transform="matrix(0.40150681,0,0,0.40150681,899.88582,776.06237)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=TT-61&quot;,&quot;%m=TT-61_STATUS&quot;]}">
       <rect
          style="fill:none;stroke:#808080;stroke-width:7.82642221;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17827,7 +17827,7 @@
          style="stroke-width:0.56798571">Replicate the objects inside drawing bounds.</tspan></text>
     <g
        id="g7679-3"
-       transform="matrix(0.40817056,0,0,0.40817056,63.357558,423.50572)"
+       transform="matrix(0.40817056,0,0,0.40817056,43.357558,363.50572)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-02&quot;,&quot;%m=LSL-02_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18002,29 +18002,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.95819473px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57395488"
-       x="197.65857"
-       y="633.80914"
+       x="177.65857"
+       y="573.80914"
        id="text3825-9"
        inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=Healthy&quot;,&quot;1=Proving period&quot;,&quot;2=Alarm&quot;,&quot;3=First up alarm guilty&quot;],&quot;tag&quot;:&quot;LSL-02_STATUS&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3823-6"
-         x="197.65857"
-         y="633.80914"
+         x="177.65857"
+         y="573.80914"
          style="stroke-width:0.57395488">%s</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.58070374px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48951757"
-       x="57.417286"
-       y="537.56079"
+       x="37.417286"
+       y="477.56079"
        id="text9435"><tspan
          sodipodi:role="line"
          id="tspan9433"
-         x="57.417286"
-         y="537.56079"
+         x="37.417286"
+         y="477.56079"
          style="stroke-width:0.48951757">LSL-01</tspan></text>
     <g
        id="g7679-3-0"
-       transform="matrix(0.47079051,0,0,0.47079051,49.410808,302.51814)"
+       transform="matrix(0.47079051,0,0,0.47079051,29.410808,242.51814)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-01&quot;,&quot;%m=LSL-01_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18199,17 +18199,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.58070374px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48951757"
-       x="58.541718"
-       y="630.65662"
+       x="38.541718"
+       y="570.65662"
        id="text9435-2"><tspan
          sodipodi:role="line"
          id="tspan9433-2"
-         x="58.541718"
-         y="630.65662"
+         x="38.541718"
+         y="570.65662"
          style="stroke-width:0.48951757">LSL-02</tspan></text>
     <g
        id="g7679-3-1"
-       transform="matrix(0.40817056,0,0,0.40817056,-12.24528,550.38423)"
+       transform="matrix(0.40817056,0,0,0.40817056,-32.24528,490.38423)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-03&quot;,&quot;%m=LSL-03_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18383,7 +18383,7 @@
     </g>
     <g
        id="g7679-3-5"
-       transform="matrix(0.40817056,0,0,0.40817056,-13.104072,654.01545)"
+       transform="matrix(0.40817056,0,0,0.40817056,-33.104072,594.01545)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-07&quot;,&quot;%m=LSL-07_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18557,7 +18557,7 @@
     </g>
     <g
        id="g7679-3-1-3"
-       transform="matrix(0.40817056,0,0,0.40817056,67.516479,550.38423)"
+       transform="matrix(0.40817056,0,0,0.40817056,47.516479,490.38423)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-04&quot;,&quot;%m=LSL-04_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18731,7 +18731,7 @@
     </g>
     <g
        id="g7679-3-5-7"
-       transform="matrix(0.40817056,0,0,0.40817056,66.657695,654.01545)"
+       transform="matrix(0.40817056,0,0,0.40817056,46.657695,594.01545)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-08&quot;,&quot;%m=LSL-08_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -18905,7 +18905,7 @@
     </g>
     <g
        id="g7679-3-1-1"
-       transform="matrix(0.40817056,0,0,0.40817056,147.27824,550.38423)"
+       transform="matrix(0.40817056,0,0,0.40817056,127.27824,490.38423)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-05&quot;,&quot;%m=LSL-05_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -19079,7 +19079,7 @@
     </g>
     <g
        id="g7679-3-5-2"
-       transform="matrix(0.40817056,0,0,0.40817056,146.41946,654.01545)"
+       transform="matrix(0.40817056,0,0,0.40817056,126.41946,594.01545)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-09&quot;,&quot;%m=LSL-09_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -19253,7 +19253,7 @@
     </g>
     <g
        id="g7679-3-1-7"
-       transform="matrix(0.40817056,0,0,0.40817056,227.04002,550.38423)"
+       transform="matrix(0.40817056,0,0,0.40817056,207.04002,490.38423)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-06&quot;,&quot;%m=LSL-06_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -19427,7 +19427,7 @@
     </g>
     <g
        id="g7679-3-5-8"
-       transform="matrix(0.40817056,0,0,0.40817056,226.18124,654.01545)"
+       transform="matrix(0.40817056,0,0,0.40817056,206.18124,594.01545)"
        inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=LSL-10&quot;,&quot;%m=LSL-10_STATUS&quot;]}">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4d4d;stroke-width:9.74603653;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -19602,28 +19602,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.65527916px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56638199"
-       x="168.08455"
-       y="415.22003"
+       x="148.08455"
+       y="355.22003"
        id="text3825-3"
        inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;1=OFF&quot;,&quot;2=ON&quot;],&quot;tag&quot;:&quot;DIGITAL_STATUS1&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3823-8"
-         x="168.08455"
-         y="415.22003"
+         x="148.08455"
+         y="355.22003"
          style="stroke-width:0.56638199">ON/OFF</tspan><tspan
          sodipodi:role="line"
-         x="168.08455"
-         y="443.53912"
+         x="148.08455"
+         y="383.53912"
          style="stroke-width:0.56638199"
          id="tspan9877">Digital status</tspan><tspan
          sodipodi:role="line"
-         x="168.08455"
-         y="471.85822"
+         x="148.08455"
+         y="411.85822"
          style="stroke-width:0.56638199"
          id="tspan9873">Click to Change</tspan><tspan
          sodipodi:role="line"
-         x="168.08455"
-         y="500.17734"
+         x="148.08455"
+         y="440.17734"
          style="stroke-width:0.56638199"
          id="tspan9875" /></text>
     <text
