@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="395.28532"
-     inkscape:cy="533.5973"
+     inkscape:cx="395.12748"
+     inkscape:cy="502.56668"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,7 +91,7 @@
        ry="2.6458333"
        inkscape:transform-center-x="-4.4163858e-06"
        inkscape:transform-center-y="-9.7790105"
-       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:24,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}"
        rx="2.6458333" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -1124,7 +1124,7 @@
        ry="2.6458333"
        inkscape:transform-center-x="-0.059063187"
        inkscape:transform-center-y="-22.104096"
-       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}"
+       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:60,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}"
        rx="2.6458333" />
   </g>
 </svg>
