@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="378.55467"
-     inkscape:cy="476.03439"
+     inkscape:zoom="5.6"
+     inkscape:cx="398.57143"
+     inkscape:cy="512.05357"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -56,6 +56,10 @@
        orientation="1,0"
        id="guide823"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="98.084822,154.26674"
+       orientation="0,-1"
+       id="guide14924" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1102,20 +1106,20 @@
        x="101.85807"
        y="86.236458"
        ry="2.6458333"
-       inkscape:transform-center-x="-4.4078799e-06"
-       inkscape:transform-center-y="-21.166668"
+       inkscape:transform-center-x="0.18898369"
+       inkscape:transform-center-y="-22.017114"
        inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}" />
     <rect
-       y="102.30817"
-       x="101.59061"
-       height="52.916664"
-       width="5.2916665"
-       id="rect5049"
        style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect5047-0"
+       width="5.2916665"
+       height="43.989227"
+       x="101.90237"
+       y="110.97378"
        ry="2.6458333"
-       inkscape:transform-center-x="0.024928691"
-       inkscape:transform-center-y="-13.229164"
-       transform="rotate(-0.10799858)"
-       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}" />
+       inkscape:transform-center-x="0.18898368"
+       inkscape:transform-center-y="-9.755387"
+       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}"
+       rx="2.6458333" />
   </g>
 </svg>
