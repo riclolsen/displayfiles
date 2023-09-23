@@ -1104,7 +1104,7 @@
        ry="2.6458333"
        inkscape:transform-center-x="-4.4078799e-06"
        inkscape:transform-center-y="-21.166668"
-       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}" />
     <rect
        y="102.30817"
        x="101.59061"
@@ -1116,6 +1116,6 @@
        inkscape:transform-center-x="0.024928691"
        inkscape:transform-center-y="-13.229164"
        transform="rotate(-0.10799858)"
-       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}" />
   </g>
 </svg>
