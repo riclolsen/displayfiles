@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
-   sodipodi:docname="clock_custom.svg">
+   inkscape:version="1.2-dev (6621adc3af, 2022-10-24, custom)"
+   sodipodi:docname="clock_custom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="420.94462"
-     inkscape:cy="567.27792"
+     inkscape:zoom="1.979899"
+     inkscape:cx="378.55467"
+     inkscape:cy="476.03439"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,10 +40,12 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="103"
-     inkscape:window-maximized="1">
+     inkscape:window-height="1051"
+     inkscape:window-x="345"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:blackoutopacity="0.0">
     <sodipodi:guide
        position="-179.87088,-28.68039"
        orientation="0,1"
@@ -63,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -962,7 +964,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="103.68742"
        y="84.883675"
        id="text4899"><tspan
@@ -970,21 +972,21 @@
          id="tspan4897"
          x="101.70304"
          y="84.883675"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">12</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">12</tspan></text>
     <text
        id="text4925"
        y="93.16288"
        x="136.22905"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="93.16288"
          x="134.24467"
          id="tspan4923"
          sodipodi:role="line">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="160.27393"
        y="116.59919"
        id="text4933"><tspan
@@ -992,21 +994,21 @@
          id="tspan4931"
          x="158.28955"
          y="116.59919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">2</tspan></text>
     <text
        id="text4941"
        y="148.91998"
        x="169.37735"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="148.91998"
          x="167.39297"
          id="tspan4939"
          sodipodi:role="line">3</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="161.49648"
        y="181.57486"
        id="text4949"><tspan
@@ -1014,21 +1016,21 @@
          id="tspan4947"
          x="159.5121"
          y="181.57486"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">4</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">4</tspan></text>
     <text
        id="text4957"
        y="205.48062"
        x="137.75827"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="205.48062"
          x="135.7739"
          id="tspan4955"
          sodipodi:role="line">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="105.34107"
        y="214.60986"
        id="text4965"><tspan
@@ -1036,21 +1038,21 @@
          id="tspan4963"
          x="103.3567"
          y="214.60986"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">6</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">6</tspan></text>
     <text
        id="text4973"
        y="206.33331"
        x="72.798729"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="206.33331"
          x="70.814354"
          id="tspan4971"
          sodipodi:role="line">7</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="48.754539"
        y="182.89438"
        id="text4981"><tspan
@@ -1058,21 +1060,21 @@
          id="tspan4979"
          x="46.770164"
          y="182.89438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">8</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">8</tspan></text>
     <text
        id="text4989"
        y="150.57361"
        x="39.6511"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="150.57361"
          x="37.666725"
          id="tspan4987"
          sodipodi:role="line">9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="47.514305"
        y="117.31522"
        id="text4997"><tspan
@@ -1080,14 +1082,14 @@
          id="tspan4995"
          x="45.52993"
          y="117.31522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332">10</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583">10</tspan></text>
     <text
        id="text5005"
        y="93.984505"
        x="71.365929"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:RomanT;-inkscape-font-specification:RomanT;text-align:center;letter-spacing:-3.96875px;text-anchor:middle;fill:#666666;stroke-width:0.264583"
          y="93.984505"
          x="69.381554"
          id="tspan5003"
@@ -1104,16 +1106,16 @@
        inkscape:transform-center-y="-21.166668"
        inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;hour&quot;}" />
     <rect
-       y="-199.98547"
-       x="70.378647"
+       y="102.30817"
+       x="101.59061"
        height="52.916664"
        width="5.2916665"
        id="rect5049"
        style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        ry="2.6458333"
-       inkscape:transform-center-x="-11.557207"
-       inkscape:transform-center-y="6.4375556"
-       transform="rotate(119.11844)"
+       inkscape:transform-center-x="0.024928691"
+       inkscape:transform-center-y="-13.229164"
+       transform="rotate(-0.10799858)"
        inkscape:label="{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:360,&quot;min&quot;:0,&quot;tag&quot;:&quot;minute&quot;}" />
   </g>
 </svg>
